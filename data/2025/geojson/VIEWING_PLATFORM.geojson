@@ -1,305 +1,305 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.583918,
                     51.155074
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.592087,
                     51.145951
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589604,
                     51.151693
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.583594,
                     51.148663
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.581413,
                     51.151378
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59012,
                     51.154631
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.577517,
                     51.153834
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591082,
                     51.158942
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579767,
                     51.149297
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591887,
                     51.148218
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585717,
                     51.151583
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578419,
                     51.151735
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.580747,
                     51.148134
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.582706,
                     51.150225
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Viewing Platform",
+                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.584338,
                     51.156468
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Festival goers that require access to these platforms will need to apply for a Viewing Platform (VP) pass.  This can be requested through this application form.",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Viewing Platform",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

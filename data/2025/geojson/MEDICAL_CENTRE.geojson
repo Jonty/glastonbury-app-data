@@ -1,71 +1,71 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Medical Centre",
+                "description": null,
+                "tags": [
+                    "First Aid"
+                ],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5789,
                     51.149184
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Medical Centre",
-                "tags": [
-                    "First Aid"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Medical Centre",
+                "description": null,
+                "tags": [
+                    "First Aid"
+                ],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579766,
                     51.158165
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Medical Centre",
-                "tags": [
-                    "First Aid"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Medical Centre",
+                "description": null,
+                "tags": [
+                    "First Aid"
+                ],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59378,
                     51.15131
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Medical Centre",
-                "tags": [
-                    "First Aid"
                 ]
-            },
-            "type": "Feature"
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

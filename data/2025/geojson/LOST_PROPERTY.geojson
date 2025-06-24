@@ -1,25 +1,25 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Lost Property",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579302,
                     51.157675
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Lost Property",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

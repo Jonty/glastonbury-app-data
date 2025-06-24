@@ -1,2185 +1,2185 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.583775,
                     51.152935
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Kiosk",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.582797,
                     51.1548
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Kiosk",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59368,
                     51.155607
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586576,
                     51.144054
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589365,
                     51.158009
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.587244,
                     51.150035
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591723,
                     51.141147
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586753,
                     51.14629
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.587635,
                     51.156855
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591776,
                     51.146799
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.592972,
                     51.143851
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.592213,
                     51.159937
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Kiosk",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.581992,
                     51.155589
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Kiosk",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.588438,
                     51.158632
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.590586,
                     51.14925
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.594565,
                     51.142251
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586617,
                     51.147367
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.599613,
                     51.150737
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.565382,
                     51.151697
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.597731,
                     51.153896
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.590157,
                     51.154443
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.587977,
                     51.158294
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.583697,
                     51.150173
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.565151,
                     51.150927
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.597484,
                     51.14628
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.58795,
                     51.142837
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.577886,
                     51.146985
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.594177,
                     51.149244
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Bar",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59165,
                     51.151382
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Bar",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.566093,
                     51.152097
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.580697,
                     51.14814
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59021,
                     51.146062
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.593531,
                     51.160371
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.583566,
                     51.148273
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.590885,
                     51.159583
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.580713,
                     51.149669
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.592058,
                     51.142397
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Bar",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586483,
                     51.156093
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Bar",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.56784,
                     51.152096
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Bar",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5875,
                     51.151835
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Bar",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.577691,
                     51.154075
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.602001,
                     51.157175
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Kiosk",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578955,
                     51.155474
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Kiosk",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59048,
                     51.144709
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.593505,
                     51.149335
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.595463,
                     51.15662
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.602817,
                     51.147853
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Bar",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.582161,
                     51.150775
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Bar",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Bar",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585814,
                     51.155025
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Bar",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.580136,
                     51.158628
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.576754,
                     51.151872
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.590962,
                     51.158002
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.604541,
                     51.148119
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.588057,
                     51.141752
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578574,
                     51.152923
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59439,
                     51.150286
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.596388,
                     51.15967
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.599628,
                     51.145798
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.566802,
                     51.152558
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.581031,
                     51.15738
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.569129,
                     51.149734
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5779244355371076,
                     51.145511982379716
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.598201,
                     51.148115
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5804008329385075,
                     51.146116903413436
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579331,
                     51.14773
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.596116,
                     51.146101
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589235,
                     51.142936
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Kiosk",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.584511,
                     51.15276
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Kiosk",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.594139,
                     51.148248
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.597124,
                     51.148952
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.592211,
                     51.156685
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586533,
                     51.14979
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591263,
                     51.149716
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.590782,
                     51.148595
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.575783,
                     51.158666
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5789816848387654,
                     51.14546915746351
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.599011,
                     51.148461
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.599589,
                     51.147393
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578174,
                     51.155456
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.602951,
                     51.15223
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.594142,
                     51.147458
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5809257546704627,
                     51.14670081462995
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Bar",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.581963,
                     51.152917
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Bar",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.601359,
                     51.147188
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Bar",
+                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578458,
                     51.155578
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Collect your pre-ordered Glastonbury water bottle and refill with WaterAid's volunteer water crew here",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Bar",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.590878,
                     51.154052
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.599646,
                     51.149272
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579071,
                     51.157753
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.58653,
                     51.1568
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.600337,
                     51.147354
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585341,
                     51.146143
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591007,
                     51.150736
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.594162,
                     51.146893
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586999,
                     51.14602
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.60083,
                     51.160358
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578292,
                     51.147612
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.576839,
                     51.146136
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585193,
                     51.154117
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586983,
                     51.159962
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.594363,
                     51.140491
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.595987,
                     51.159905
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.572807,
                     51.151968
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.592408,
                     51.145786
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.58725,
                     51.149704
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578162,
                     51.151979
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5905497000000253,
                     51.14568210000002
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.581869,
                     51.147579
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578885,
                     51.147381
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Source",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.580779,
                     51.153835
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Water Source",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

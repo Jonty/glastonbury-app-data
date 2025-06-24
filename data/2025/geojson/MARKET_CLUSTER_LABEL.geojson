@@ -1,765 +1,765 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591449,
                     51.154723
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59071,
                     51.158269
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589817,
                     51.153121
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.58425,
                     51.147107
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579973,
                     51.157709
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.590631,
                     51.155577
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578776581,
                     51.14559248
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.588884,
                     51.155166
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.582448,
                     51.148413
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.584254,
                     51.152202
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579774,
                     51.152887
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.588454,
                     51.14621
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589789,
                     51.160874
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.594748,
                     51.148976
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.577921,
                     51.147566
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.584275,
                     51.153627
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585553,
                     51.150883
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589806,
                     51.147766
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591069,
                     51.14742
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.582592,
                     51.151371
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.584216,
                     51.151406
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.582433,
                     51.15332
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586048,
                     51.15236
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585365,
                     51.153375
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.581269,
                     51.152059
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.582313,
                     51.15398
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.588035,
                     51.156606
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.582501,
                     51.149197
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.583225,
                     51.152615
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.590194,
                     51.157547
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.599926,
                     51.151075
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.594695,
                     51.147578
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.597179,
                     51.159133
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.587167,
                     51.151078
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589742,
                     51.15092
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585604,
                     51.147131
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585138,
                     51.148361
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Market",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59821,
                     51.153437
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Market",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

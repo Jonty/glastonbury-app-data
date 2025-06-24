@@ -1,325 +1,325 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "WOODSIES",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5907031230509356,
                     51.15856539246376
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "WOODSIES",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "GREEN FIELDS",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.584642,
                     51.147688
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "GREEN FIELDS",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "THEATRE & CIRCUS FIELDS",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579812,
                     51.151289
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "THEATRE & CIRCUS FIELDS",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "THE COMMON",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.577341,
                     51.146061
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "THE COMMON",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "THE PARK",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591789,
                     51.146527
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "THE PARK",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Block9",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578822,
                     51.147484
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Block9",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "WORTHY VIEW",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.591002,
                     51.141542
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "WORTHY VIEW",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "SILVER HAYES",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.592314,
                     51.155467
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "SILVER HAYES",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Glasto On Sea",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589530999999994,
                     51.145966100000024
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Glasto On Sea",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "KIDZ FIELD",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578649,
                     51.154092
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "KIDZ FIELD",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "SHANGRI-LA",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.578574,
                     51.145296
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "SHANGRI-LA",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Greenpeace",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.5838127000000384,
                     51.1488552
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Greenpeace",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "UNFAIRGROUND",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.580625,
                     51.146656
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "UNFAIRGROUND",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Arcadia",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.592377,
                     51.148811
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "Arcadia",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "STICKLINCH",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.60532,
                     51.14753
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "STICKLINCH",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "THE GLADE",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586765,
                     51.150216
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": null,
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "THE GLADE",
-                "tags": []
-            },
-            "type": "Feature"
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

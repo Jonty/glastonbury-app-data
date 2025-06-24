@@ -1,93 +1,93 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairtrade Foundation",
+                "description": "Do it Fair! Visit the Fairtrade stall this year to hang out, spin the wheel, win prizes, take action and learn about the people behind your cup of tea. Come and join the movement for trade justice!",
+                "tags": [
+                    "Charity Partner"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.586591000000027,
                     51.156201199999984
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Do it Fair! Visit the Fairtrade stall this year to hang out, spin the wheel, win prizes, take action and learn about the people behind your cup of tea. Come and join the movement for trade justice!",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Fairtrade Foundation",
-                "tags": [
-                    "Charity Partner"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Oxfam\u2019s Radio Silence Station",
+                "description": "South Sudanese embroidery, a giant paint by numbers and a water tank soundscape!",
+                "tags": [
+                    "Charity Partner"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589908,
                     51.158039
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "South Sudanese embroidery, a giant paint by numbers and a water tank soundscape!",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Oxfam\u2019s Radio Silence Station",
-                "tags": [
-                    "Charity Partner"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Joint Charity Pyramid Stage Marquee",
+                "description": "Positioned by the iconic pyramid stage, enjoy amazing artists and discover how Oxfam, WaterAid and Greenpeace are championing causes of hope and collective action to combat the climate crisis!",
+                "tags": [
+                    "Charity Partner"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585625,
                     51.154922
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Positioned by the iconic pyramid stage, enjoy amazing artists and discover how Oxfam, WaterAid and Greenpeace are championing causes of hope and collective action to combat the climate crisis!",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Joint Charity Pyramid Stage Marquee",
-                "tags": [
-                    "Charity Partner"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "WaterAid Good Loos",
+                "description": "Everyone everywhere needs clean water and a decent toilet - and this week WaterAid have got you covered. Enjoy the Good Loos and lookout for one with an excloosive disco!",
+                "tags": [
+                    "Charity Partner"
+                ],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.583049,
                     51.154765
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Everyone everywhere needs clean water and a decent toilet - and this week WaterAid have got you covered. Enjoy the Good Loos and lookout for one with an excloosive disco!",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": false,
-                "name": "WaterAid Good Loos",
-                "tags": [
-                    "Charity Partner"
                 ]
-            },
-            "type": "Feature"
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

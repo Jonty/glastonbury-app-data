@@ -1,71 +1,71 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Camping Accessories",
+                "description": "All weather camping essentials",
+                "tags": [
+                    "Camping Shop"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.59508,
                     51.148888
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "All weather camping essentials",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Camping Accessories",
-                "tags": [
-                    "Camping Shop"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Camping Accessories",
+                "description": "All weather camping essentials",
+                "tags": [
+                    "Camping Shop"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.579486,
                     51.155752
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "All weather camping essentials",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Camping Accessories",
-                "tags": [
-                    "Camping Shop"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Military Mart",
+                "description": "Army surplus & camping equipment",
+                "tags": [
+                    "Camping Shop"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.598017,
                     51.153673
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Army surplus & camping equipment",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Military Mart",
-                "tags": [
-                    "Camping Shop"
                 ]
-            },
-            "type": "Feature"
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

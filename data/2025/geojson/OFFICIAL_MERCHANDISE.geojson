@@ -1,137 +1,137 @@
 {
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Festival T-shirts",
+                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
+                "tags": [
+                    "Official Merchandise"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585354,
                     51.152962
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Festival T-shirts",
-                "tags": [
-                    "Official Merchandise"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Festival T-shirts",
+                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
+                "tags": [
+                    "Official Merchandise"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.583126,
                     51.151478
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Festival T-shirts",
-                "tags": [
-                    "Official Merchandise"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Festival T-shirts",
+                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
+                "tags": [
+                    "Official Merchandise"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.581481,
                     51.153347
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Festival T-shirts",
-                "tags": [
-                    "Official Merchandise"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Festival T-shirts",
+                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
+                "tags": [
+                    "Official Merchandise"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589697,
                     51.155609
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Festival T-shirts",
-                "tags": [
-                    "Official Merchandise"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Festival T-shirts",
+                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
+                "tags": [
+                    "Official Merchandise"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.585475,
                     51.154853
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Festival T-shirts",
-                "tags": [
-                    "Official Merchandise"
                 ]
-            },
-            "type": "Feature"
+            }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "name": "Festival T-shirts",
+                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
+                "tags": [
+                    "Official Merchandise"
+                ],
+                "is_in_market": true,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
             "geometry": {
+                "type": "Point",
                 "coordinates": [
                     -2.589091,
                     51.152465
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "busy_description": null,
-                "busy_title": null,
-                "description": "Official T-shirts & Hoodies made with Fairtrade & Organic Cotton",
-                "display_on_map": true,
-                "is_busy": false,
-                "is_in_market": true,
-                "name": "Festival T-shirts",
-                "tags": [
-                    "Official Merchandise"
                 ]
-            },
-            "type": "Feature"
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }
