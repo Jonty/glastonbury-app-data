@@ -53,4 +53,4 @@ for type_name, features in types.items():
         "features": features,
     }
     with open(path + f"{type_name}.geojson", "w") as outfile:
-        outfile.write(json.dumps(schema, indent=4, sort_keys=True))
+        outfile.write(json.dumps(schema, indent=4))
