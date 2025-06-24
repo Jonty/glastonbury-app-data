@@ -1401,6 +1401,34 @@
             "updateTime": "2024-06-29T11:14:28.033935Z"
         },
         {
+            "createTime": "2025-06-24T22:41:02.848007Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Throughout this year\u2019s Festival, our team will be roaming the site, posting photos to our @glastolive Bluesky feed \u2013 giving you a flavour of what\u2019s happening around Glastonbury 2025.</p><p><a href=\"https://bsky.app/profile/glastonburyfestivals.co.uk\">Check out the live feed here</a></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-24T22:41:00.359Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6Tq34BSqGmlfM8Ce101Bvl/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-24T22:41:02.838Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Live updates"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/4XCRCKBREJb2nE3XEGvQmu",
+            "updateTime": "2025-06-24T22:41:02.848007Z"
+        },
+        {
             "createTime": "2025-06-19T11:31:36.834959Z",
             "fields": {
                 "body": {
