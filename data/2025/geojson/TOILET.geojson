@@ -23,6 +23,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -2.5809870198184526,
+                    51.145577624474775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -2.587184,
                     51.160002
                 ],
@@ -279,6 +299,26 @@
                 "tags": [
                     "Woman's Urinal"
                 ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.5803166875561203,
+                    51.14780211362415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
             },
             "type": "Feature"
         },
@@ -1271,6 +1311,26 @@
         {
             "geometry": {
                 "coordinates": [
+                    -2.5768335513093734,
+                    51.145943755273024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -2.586651,
                     51.144056
                 ],
@@ -1351,8 +1411,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -2.580497,
-                    51.146163
+                    -2.580465954659781,
+                    51.1461721549007
                 ],
                 "type": "Point"
             },

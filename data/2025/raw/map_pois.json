@@ -1629,6 +1629,64 @@
             "updateTime": "2025-06-12T20:38:30.644127Z"
         },
         {
+            "createTime": "2025-06-24T17:21:52.279611Z",
+            "fields": {
+                "busyDescription": {
+                    "nullValue": null
+                },
+                "busyOffsetX": {
+                    "nullValue": null
+                },
+                "busyOffsetY": {
+                    "nullValue": null
+                },
+                "busyRadius": {
+                    "nullValue": null
+                },
+                "busyTitle": {
+                    "nullValue": null
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "nullValue": null
+                },
+                "displayOnMap": {
+                    "booleanValue": true
+                },
+                "hasOffer": {
+                    "booleanValue": false
+                },
+                "isBusy": {
+                    "booleanValue": false
+                },
+                "isInMarket": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
+                },
+                "name": {
+                    "stringValue": "Public Toilet"
+                },
+                "point": {
+                    "geoPointValue": {
+                        "latitude": 51.145577624474775,
+                        "longitude": -2.5809870198184526
+                    }
+                },
+                "tags": {
+                    "nullValue": null
+                },
+                "type": {
+                    "stringValue": "TOILET"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/rec1Z8HLOpuERxivw",
+            "updateTime": "2025-06-24T17:21:52.279611Z"
+        },
+        {
             "createTime": "2025-06-12T20:38:30.644127Z",
             "fields": {
                 "busyDescription": {
@@ -4193,15 +4251,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Nomad"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14533904,
-                        "longitude": -2.578017445
+                        "latitude": 51.145417911196446,
+                        "longitude": -2.578155082720454
                     }
                 },
                 "stageId": {
@@ -4215,7 +4273,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/rec4PQ4aJrcpVdhuW",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -4736,15 +4794,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Shangri-Bar"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14560108,
-                        "longitude": -2.579122405
+                        "latitude": 51.1455514548517,
+                        "longitude": -2.5790966000989983
                     }
                 },
                 "tags": {
@@ -4761,7 +4819,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/rec4walXr5C1xbXjI",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -12908,6 +12966,64 @@
             "updateTime": "2025-06-12T20:38:30.644127Z"
         },
         {
+            "createTime": "2025-06-24T17:21:52.279611Z",
+            "fields": {
+                "busyDescription": {
+                    "nullValue": null
+                },
+                "busyOffsetX": {
+                    "nullValue": null
+                },
+                "busyOffsetY": {
+                    "nullValue": null
+                },
+                "busyRadius": {
+                    "nullValue": null
+                },
+                "busyTitle": {
+                    "nullValue": null
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "nullValue": null
+                },
+                "displayOnMap": {
+                    "booleanValue": true
+                },
+                "hasOffer": {
+                    "booleanValue": false
+                },
+                "isBusy": {
+                    "booleanValue": false
+                },
+                "isInMarket": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
+                },
+                "name": {
+                    "stringValue": "Public Toilet"
+                },
+                "point": {
+                    "geoPointValue": {
+                        "latitude": 51.14780211362415,
+                        "longitude": -2.5803166875561203
+                    }
+                },
+                "tags": {
+                    "nullValue": null
+                },
+                "type": {
+                    "stringValue": "TOILET"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recCxAetJRzW8YspP",
+            "updateTime": "2025-06-24T17:21:52.279611Z"
+        },
+        {
             "createTime": "2025-06-12T20:38:30.644127Z",
             "fields": {
                 "busyDescription": {
@@ -14801,15 +14917,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Azaadi"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.1453954,
-                        "longitude": -2.57885206
+                        "latitude": 51.14539500521444,
+                        "longitude": -2.578852000358979
                     }
                 },
                 "stageId": {
@@ -14823,7 +14939,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recEqu34G4tAKG7dL",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -18122,15 +18238,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Garden Bar - Shangri-La"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14525578,
-                        "longitude": -2.578694666
+                        "latitude": 51.14517691317817,
+                        "longitude": -2.57880762281821
                     }
                 },
                 "tags": {
@@ -18147,7 +18263,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recHnetUhFfbFrfno",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -20004,15 +20120,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Wyverns Watch"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.145796,
-                        "longitude": -2.580425
+                        "latitude": 51.1457242110706,
+                        "longitude": -2.580426972263778
                     }
                 },
                 "tags": {
@@ -20029,7 +20145,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recJm0SX8lwK3pTtf",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -25825,15 +25941,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "The Grow Room Bar"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14581312,
-                        "longitude": -2.577844249
+                        "latitude": 51.14578831921824,
+                        "longitude": -2.578163583325067
                     }
                 },
                 "tags": {
@@ -25850,7 +25966,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recP1iSfqnTqkLoRt",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -27490,15 +27606,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Sensory Calm Space"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.145986,
-                        "longitude": -2.58007
+                        "latitude": 51.145854225032174,
+                        "longitude": -2.579719017866737
                     }
                 },
                 "tags": {
@@ -27509,7 +27625,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recQwsFKzheRt1m1i",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -29289,15 +29405,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-13T15:26:03.795Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Tastias"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.1468458,
-                        "longitude": -2.5803479999999865
+                        "latitude": 51.14684540085296,
+                        "longitude": -2.580395657073814
                     }
                 },
                 "tags": {
@@ -29317,7 +29433,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recSLkFDllFvjKmNn",
-            "updateTime": "2025-06-13T15:26:03.807967Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -30268,7 +30384,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "SHANGRI-LA"
@@ -30287,7 +30403,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recT4aYjgQezX8ySv",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -30750,15 +30866,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Allotment Bar"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.145963,
-                        "longitude": -2.579545
+                        "latitude": 51.14587612900373,
+                        "longitude": -2.5794601460929614
                     }
                 },
                 "tags": {
@@ -30775,7 +30891,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recTWp05ZOYCKEDLA",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -31598,15 +31714,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Wheelchair Accessible Toilet"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14589077,
-                        "longitude": -2.578242715
+                        "latitude": 51.145729884899424,
+                        "longitude": -2.577170494298259
                     }
                 },
                 "tags": {
@@ -31617,7 +31733,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recU2JsmiQqr5PS1G",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -31845,15 +31961,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Luna"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14626937,
-                        "longitude": -2.579082591
+                        "latitude": 51.14611149142615,
+                        "longitude": -2.579097977926044
                     }
                 },
                 "stageId": {
@@ -31867,7 +31983,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recUBBTmlKsNHeZMK",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -32327,15 +32443,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Salon Carousel"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.146685,
-                        "longitude": -2.580425
+                        "latitude": 51.14668500521448,
+                        "longitude": -2.580425000359198
                     }
                 },
                 "stageId": {
@@ -32349,7 +32465,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recUrdogDoa1wmaMB",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -39703,15 +39819,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Shangri-La Stage"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14605954,
-                        "longitude": -2.578643853
+                        "latitude": 51.1459225579508,
+                        "longitude": -2.5785196956588785
                     }
                 },
                 "stageId": {
@@ -39725,7 +39841,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recbHQEQXkgOrFgoG",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -40526,15 +40642,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Water Source"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14553811,
-                        "longitude": -2.577407231
+                        "latitude": 51.145511982379716,
+                        "longitude": -2.5779244355371076
                     }
                 },
                 "tags": {
@@ -40545,7 +40661,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recbtS4NokXIrtoIX",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -41160,15 +41276,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Blind Tiger"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.146792,
-                        "longitude": -2.580915
+                        "latitude": 51.14674816547372,
+                        "longitude": -2.5809117338722327
                     }
                 },
                 "stageId": {
@@ -41182,7 +41298,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/reccNnQEaNFqbyjNp",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -41279,15 +41395,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Water Source"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.146125,
-                        "longitude": -2.580383
+                        "latitude": 51.146116903413436,
+                        "longitude": -2.5804008329385075
                     }
                 },
                 "tags": {
@@ -41298,7 +41414,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/reccOFgsWEQ2ONDqU",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -42154,15 +42270,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "FLYING BUS"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.146567,
-                        "longitude": -2.580922
+                        "latitude": 51.14659608296273,
+                        "longitude": -2.580954203137747
                     }
                 },
                 "stageId": {
@@ -42176,7 +42292,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recd4pF9bLeySvj8r",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -49155,15 +49271,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Water Source"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14547075,
-                        "longitude": -2.579007255
+                        "latitude": 51.14546915746351,
+                        "longitude": -2.5789816848387654
                     }
                 },
                 "tags": {
@@ -49174,7 +49290,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recj0SuYtWRjrwAJ2",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -50393,15 +50509,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Luna Bar"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14619991,
-                        "longitude": -2.578803119
+                        "latitude": 51.14605070801206,
+                        "longitude": -2.5788602764972803
                     }
                 },
                 "tags": {
@@ -50418,7 +50534,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/reck2NYqQmalSeLy2",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -53281,15 +53397,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Water Source"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.146694,
-                        "longitude": -2.580941
+                        "latitude": 51.14670081462995,
+                        "longitude": -2.5809257546704627
                     }
                 },
                 "tags": {
@@ -53300,7 +53416,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recmNQYj5i7Q85BRN",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -53949,15 +54065,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Taiga Mexican"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.145459,
-                        "longitude": -2.577708
+                        "latitude": 51.14530508783614,
+                        "longitude": -2.5784225906141764
                     }
                 },
                 "tags": {
@@ -53974,7 +54090,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recmn0Wcss2lYo8uE",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -54553,15 +54669,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Lore"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14537166,
-                        "longitude": -2.578447576
+                        "latitude": 51.14532345703256,
+                        "longitude": -2.578593112938951
                     }
                 },
                 "stageId": {
@@ -54575,7 +54691,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recnRxKXiO7kK7EuS",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -54951,6 +55067,64 @@
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recnqQF8wvmT5wV6M",
             "updateTime": "2025-06-12T20:38:32.655983Z"
+        },
+        {
+            "createTime": "2025-06-24T17:21:52.279611Z",
+            "fields": {
+                "busyDescription": {
+                    "nullValue": null
+                },
+                "busyOffsetX": {
+                    "nullValue": null
+                },
+                "busyOffsetY": {
+                    "nullValue": null
+                },
+                "busyRadius": {
+                    "nullValue": null
+                },
+                "busyTitle": {
+                    "nullValue": null
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "nullValue": null
+                },
+                "displayOnMap": {
+                    "booleanValue": true
+                },
+                "hasOffer": {
+                    "booleanValue": false
+                },
+                "isBusy": {
+                    "booleanValue": false
+                },
+                "isInMarket": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
+                },
+                "name": {
+                    "stringValue": "Public Toilet"
+                },
+                "point": {
+                    "geoPointValue": {
+                        "latitude": 51.145943755273024,
+                        "longitude": -2.5768335513093734
+                    }
+                },
+                "tags": {
+                    "nullValue": null
+                },
+                "type": {
+                    "stringValue": "TOILET"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recnyk4Tw8TgQIFaH",
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -57581,15 +57755,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Public Toilet"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.146163,
-                        "longitude": -2.580497
+                        "latitude": 51.1461721549007,
+                        "longitude": -2.580465954659781
                     }
                 },
                 "tags": {
@@ -57600,7 +57774,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recq3R8GsJXY7NXSo",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -60305,15 +60479,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Nomad Bar"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.14551668,
-                        "longitude": -2.577523557
+                        "latitude": 51.14552408703444,
+                        "longitude": -2.578006280886063
                     }
                 },
                 "tags": {
@@ -60330,7 +60504,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recsKVxjmMLwpVsSr",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -61098,15 +61272,15 @@
                     "booleanValue": true
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-24T17:21:52.246Z"
                 },
                 "name": {
                     "stringValue": "Archie's Toastie Shop Limited (3)"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.145435,
-                        "longitude": -2.577816
+                        "latitude": 51.14532296256668,
+                        "longitude": -2.5783805296251225
                     }
                 },
                 "tags": {
@@ -61126,7 +61300,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/rectAVEOBDXsjkHyZ",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-24T17:21:52.279611Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
