@@ -29,7 +29,7 @@ jobs:
           git config --global user.name "Glastonbury update bot"
 
           # || true means this won't error when there's nothing to commit
-          git commit -m "Automatic Glastonbury listings update" || true
+          git commit -m "Automatic Glastonbury app data update" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
