@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.567167,
+                    51.151075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "THE WOODS",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.579991,
+                    51.151568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Theatre & Circus Gate",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.580478,
+                    51.158112
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Worthy FM",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.589734,
+                    51.144358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Above Tipi Village",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.590002,
+                    51.146664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "GLASTONBURY ON SEA",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.584222,
+                    51.149117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Greenpeace Rave Tree",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.580584,
+                    51.15347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Tony Benn Tower",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.591363,
+                    51.145627
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "The Ribbon Tower",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.585472,
+                    51.144971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "SACRED SPACE",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.591902,
+                    51.143685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Glastonbury Sign",
+                "tags": []
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

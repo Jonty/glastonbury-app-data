@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.581486,
+                    51.153402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "DeafZone",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.585742,
+                    51.151559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "DeafZone",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.589571,
+                    51.15169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "DeafZone",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.583981,
+                    51.155002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "DeafZone",
+                "tags": []
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,1759 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.578234,
+                    51.151911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.587184,
+                    51.160002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.591018,
+                    51.150827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.613054,
+                    51.158832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.59123,
+                    51.151303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.599199,
+                    51.148472
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.581966,
+                    51.147621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.59557,
+                    51.156618
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.609599,
+                    51.158132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.608804,
+                    51.158837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.56148,
+                    51.15319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.589991,
+                    51.146061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.588135,
+                    51.158345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.58641,
+                    51.15688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Women's urinals are also available at this location",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": [
+                    "Woman's Urinal"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.599869,
+                    51.149392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.578739,
+                    51.15295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.587774,
+                    51.156901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.583701,
+                    51.152993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.605325,
+                    51.15573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.569166,
+                    51.149877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.56664,
+                    51.15717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.590901,
+                    51.148661
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Women's urinals are also available at this location",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": [
+                    "Woman's Urinal"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.591155,
+                    51.158067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.56739,
+                    51.158254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.583725,
+                    51.148341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.599536,
+                    51.160201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.590259,
+                    51.154428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.580659,
+                    51.153808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.583863,
+                    51.155005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.606438,
+                    51.156581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.582109,
+                    51.155523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.588245,
+                    51.141714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.579061,
+                    51.155517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.606654,
+                    51.157005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.574349,
+                    51.156835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.569248,
+                    51.15242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.575963,
+                    51.151873
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.594273,
+                    51.147635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.600162,
+                    51.157613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.58302,
+                    51.15492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Women's urinals are also available at this location",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": [
+                    "Woman's Urinal"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.602483,
+                    51.154742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.581095,
+                    51.157217
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.58372,
+                    51.150276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.591812,
+                    51.141132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.57294,
+                    51.152086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.599716,
+                    51.150823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Women's urinals are also available at this location",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": [
+                    "Woman's Urinal"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.618217,
+                    51.15918
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.586913,
+                    51.146288
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.596055,
+                    51.161028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.59109,
+                    51.159581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.606677,
+                    51.153567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.567446,
+                    51.148478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.593812,
+                    51.155603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.590472,
+                    51.144614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.562776,
+                    51.153504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.591126,
+                    51.149722
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.593362,
+                    51.149352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.578277,
+                    51.155446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.587426,
+                    51.14977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.599688,
+                    51.147445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.597016,
+                    51.14891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.594406,
+                    51.150402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.578899,
+                    51.147451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.586651,
+                    51.144056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.563912,
+                    51.149941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.597743,
+                    51.146331
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.596574,
+                    51.159662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.580497,
+                    51.146163
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.607315,
+                    51.158403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.592314,
+                    51.156656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.602282,
+                    51.152737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.580783,
+                    51.149591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.572248,
+                    51.156486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.585565,
+                    51.146263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Women's urinals are also available in this location",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": [
+                    "Woman's Urinal"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.59231,
+                    51.160033
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.567097,
+                    51.149744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.597408,
+                    51.160992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.604798,
+                    51.148155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.602466,
+                    51.151978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.566149,
+                    51.152783
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.61118,
+                    51.158131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.5985271000000125,
+                    51.15375469999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Women's urinals are also available at this location",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": [
+                    "Woman's Urinal"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.592908,
+                    51.143924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.589589,
+                    51.158078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.587769,
+                    51.151784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Women's urinals are also available at this location",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": [
+                    "Woman's Urinal"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.592884,
+                    51.151529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.604338,
+                    51.15658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Public Toilet",
+                "tags": []
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

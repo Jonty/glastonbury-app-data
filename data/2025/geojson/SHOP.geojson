@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.585313,
+                    51.153369
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": null,
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": true,
+                "name": "The Guardian",
+                "tags": [
+                    "Shop (Confectionary/Drinks/Cigarettes)"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.593689,
+                    51.150796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "On-site Co-op shop located at Park Home Ground. Open 7am-3am. Become a Co-op Member and get perks for you and your community every time you shop.",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "THE Co-op",
+                "tags": [
+                    "Shop (Confectionary/Drinks/Cigarettes)"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.583882,
+                    51.146497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Greencrafts is teeming with over 60 creative workshop opportunities, with hundreds of things to try out! Open 10am-6pm with free workshops from 10am-11am. Full workshop listings on the website and on display in the field.",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Greencrafts",
+                "tags": [
+                    "Crafts"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

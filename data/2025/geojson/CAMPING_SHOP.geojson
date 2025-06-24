@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.59508,
+                    51.148888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "All weather camping essentials",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": true,
+                "name": "Camping Accessories",
+                "tags": [
+                    "Camping Shop"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.579486,
+                    51.155752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "All weather camping essentials",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": true,
+                "name": "Camping Accessories",
+                "tags": [
+                    "Camping Shop"
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.598017,
+                    51.153673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Army surplus & camping equipment",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": true,
+                "name": "Military Mart",
+                "tags": [
+                    "Camping Shop"
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,285 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.579924,
+                    51.155865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.59734,
+                    51.159013
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.577319,
+                    51.152123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.578151,
+                    51.15562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.593729,
+                    51.151086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.594333,
+                    51.14907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.587484,
+                    51.158041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.580931,
+                    51.157655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.591039,
+                    51.154022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.589905,
+                    51.160829
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.586873,
+                    51.146757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.589027,
+                    51.148127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.591315,
+                    51.156865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.598516,
+                    51.153292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Free suncream is available from this location.\u200b",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Property Lockup",
+                "tags": []
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

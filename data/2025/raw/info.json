@@ -1,0 +1,209 @@
+{
+    "documents": [
+        {
+            "createTime": "2024-05-01T22:13:35.124096Z",
+            "fields": {
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-24T08:01:14.034Z"
+                },
+                "sections": {
+                    "mapValue": {
+                        "fields": {
+                            "WtvfFxc9j7VWERyEQGUll": {
+                                "mapValue": {
+                                    "fields": {
+                                        "imageUrl": {
+                                            "nullValue": null
+                                        },
+                                        "order": {
+                                            "integerValue": "0"
+                                        },
+                                        "pages": {
+                                            "mapValue": {
+                                                "fields": {
+                                                    "1DbyCGE5c6J0KmauBWOYBQ": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-2qGTOJs0Hf1sySr8GIfmUK/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "9"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Joint Charities"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "1j5QFLxdTQWodTIrNwkNIr": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-2ZbTrbnUSf1wwGNYaX7Scl/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "0"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "How to get the most out of Glastonbury Festival"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "1uol0FPjSXmKwQisIorNZP": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-5ifJuSSteGBuMOKEx3tege/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "8"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Vodafone at Glastonbury"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "2W9CyTwXd7qtQL0XwzeZic": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6qcX209sbst5zUpEaXXhUS/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "5"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Lost Property"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "3sBb5VRGEut6Mnm9xraPcn": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-72F1zXj2rop2JxpC8X2j8W/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "3"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Packing List"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "4ShGRNfEHHqDnmpBnuptFz": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4l1SnjAyGv6CA6iIQHUw0i/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "7"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Accessibility"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "4fRMwn6fRAnWviZ2NHIJmE": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4CHxMaMfjfJA5u8OGLNLib/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "1"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Getting Here"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "5RntHRncccC6wGwAeozOXv": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-5XpGiWuJdTjdj2qI1YFj1H/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "4"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Green Glastonbury"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "5osrgCy5Vf44kDPnjYNRMO": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-37IXjydcCDkvi4af54oBFb/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "6"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Food & Shopping"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "6t5KrWbxITc5nZJ1ZMoYSr": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-7BmlMXJLZ1MvXJqHHTdfag/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "10"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "The Guardian at Glastonbury"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "7xQlWz5Wn3yHRYOWW3PJnt": {
+                                                        "mapValue": {
+                                                            "fields": {
+                                                                "imageUrl": {
+                                                                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-1JQKVGbYhzEjosvunUsb9q/public"
+                                                                },
+                                                                "order": {
+                                                                    "integerValue": "2"
+                                                                },
+                                                                "title": {
+                                                                    "stringValue": "Advice"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "title": {
+                                            "stringValue": "Info Tab Content"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info/layout",
+            "updateTime": "2025-06-24T08:01:14.042431Z"
+        }
+    ]
+}

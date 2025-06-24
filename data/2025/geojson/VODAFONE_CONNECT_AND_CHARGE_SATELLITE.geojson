@@ -1,0 +1,45 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.586954,
+                    51.142257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Vodafone connect and charge station.",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Vodafone Battery Exchange",
+                "tags": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.589923,
+                    51.157149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Vodafone connect and charge station.",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Vodafone Battery Exchange",
+                "tags": []
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

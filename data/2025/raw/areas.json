@@ -1,0 +1,1225 @@
+{
+    "documents": [
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "7"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "\\-"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-19T13:24:32.904Z"
+                },
+                "name": {
+                    "stringValue": "OTHER"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recRksCgN5SRlgP0w"
+                            },
+                            {
+                                "stringValue": "recBNKYszrdq6E9UD"
+                            },
+                            {
+                                "stringValue": "recN3wJYMNmYNB9y0"
+                            },
+                            {
+                                "stringValue": "recwUqPj4Eh6OMZnJ"
+                            },
+                            {
+                                "stringValue": "recFmPBezlplfGb5q"
+                            },
+                            {
+                                "stringValue": "rec53zwtYjvPR6tDn"
+                            },
+                            {
+                                "stringValue": "recMoynxkR3a88v3w"
+                            },
+                            {
+                                "stringValue": "reckBQ5Lmv32D3bgd"
+                            },
+                            {
+                                "stringValue": "recX8cQapIKuzdPxu"
+                            },
+                            {
+                                "stringValue": "recUgkeExSJkXxnHI"
+                            },
+                            {
+                                "stringValue": "recn9NmWl5B9Iga4Y"
+                            },
+                            {
+                                "stringValue": "recdTBmi6mtis6ZLs"
+                            },
+                            {
+                                "stringValue": "recIKHnnYZt8CVKl8"
+                            },
+                            {
+                                "stringValue": "recNRLDAfkXH4TgCZ"
+                            },
+                            {
+                                "stringValue": "recvxHFdlgptat58j"
+                            },
+                            {
+                                "stringValue": "rec8woNYaG6n2xzLH"
+                            },
+                            {
+                                "stringValue": "recmaED8s6bD3afYL"
+                            },
+                            {
+                                "stringValue": "recOZ6LXlQ2IAFnvk"
+                            },
+                            {
+                                "stringValue": "recwmmUx561KMmI81"
+                            },
+                            {
+                                "stringValue": "rec6wLwYhUf5VC534"
+                            },
+                            {
+                                "stringValue": "recYOA2yqla5w8Yro"
+                            },
+                            {
+                                "stringValue": "rec3c2WlWQ7sTtgAP"
+                            },
+                            {
+                                "stringValue": "recnDYnyJxCoV1dyz"
+                            },
+                            {
+                                "stringValue": "recpM1Av839Ttt5nC"
+                            },
+                            {
+                                "stringValue": "rec8q0jxEhqDpoOce"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/rec3whwPGXv5tgB2x",
+            "updateTime": "2025-06-19T13:24:32.924095Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "20"
+                },
+                "deletedAt": {
+                    "timestampValue": "2025-06-19T13:24:32.904Z"
+                },
+                "description": {
+                    "stringValue": "Two stages, bars, live music, heavyweight DJs and dramatic sound experiences nestling in the tree canopy between the Other Stage and the Green Fields."
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-19T13:24:32.904Z"
+                },
+                "name": {
+                    "stringValue": "GLADE"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "nullValue": null
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/rec85eHpNuOawI4Z9",
+            "updateTime": "2025-06-19T13:24:32.924095Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "17"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "On the trek towards The Park from the Other Stage, with DJs ensconced in a huge gyrating butterfly with lights, fire and magic."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/5fed7b45-c1cd-4fb8-f2be-cd09563b0a00/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "ARCADIA"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recchB1UFi2ScEIr9"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/rec9MJsGUeM4tNZr5",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "14"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "In the North-West of the site between Pyramid and Silver Hayes, an immersive tree-laden cosmological experience with an esoteric main stage and an extended new area with further stages."
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-20T11:45:26.864Z"
+                },
+                "name": {
+                    "stringValue": "WOODSIES"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recKUInNtkxu60dV1"
+                            },
+                            {
+                                "stringValue": "recpM1Av839Ttt5nC"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recCubPsPIATJhwVB",
+            "updateTime": "2025-06-20T11:45:26.874511Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "19"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Between the old railway line and the Sacred Stones, a field full of activism and environmental education with food, bars and two music stages."
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-20T11:45:26.864Z"
+                },
+                "name": {
+                    "stringValue": "GREENPEACE"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recazAND9dAhHIukM"
+                            },
+                            {
+                                "stringValue": "recS5FQkEzLf9cWJq"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recDE17OHYGxPyXZb",
+            "updateTime": "2025-06-20T11:45:26.874511Z"
+        },
+        {
+            "createTime": "2025-05-20T11:19:30.611071Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "8"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "\\-"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "WORTHY VIEW"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "nullValue": null
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recEy7kWSWJshQqKA",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "6"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "An extravaganza of theatre, circus, comedy, cabaret and associated bravado, in the east end of the site between the Acoustic Stage and The Field Of Avalon."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/61137a00-3081-4c17-4533-ffdfa2c8c800/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "THEATRE & CIRCUS FIELDS"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recdt0oXZWwJecyfl"
+                            },
+                            {
+                                "stringValue": "recNYNvrkzBdBo8Pd"
+                            },
+                            {
+                                "stringValue": "recsRGL7ICJrLoqms"
+                            },
+                            {
+                                "stringValue": "reciNvMmJ2OXjNSzC"
+                            },
+                            {
+                                "stringValue": "recOX66xGc2AC6GbL"
+                            },
+                            {
+                                "stringValue": "recRcmlGOFkWgtHYY"
+                            },
+                            {
+                                "stringValue": "recESHOPp7gLHRxXB"
+                            },
+                            {
+                                "stringValue": "rec4nY2JJKm8FCHfg"
+                            },
+                            {
+                                "stringValue": "rec6H8IfjLs9pgYHP"
+                            },
+                            {
+                                "stringValue": "recbj9o9Vi40rhgRw"
+                            },
+                            {
+                                "stringValue": "reccdLUFNTT5mMmeP"
+                            },
+                            {
+                                "stringValue": "recly4p054FP52cEx"
+                            },
+                            {
+                                "stringValue": "recmV75IhYtrdEe4r"
+                            },
+                            {
+                                "stringValue": "recxZmFZDdnLTqRjy"
+                            },
+                            {
+                                "stringValue": "recwCXft5FrYQBPG4"
+                            },
+                            {
+                                "stringValue": "recrpHx54hDkaLDFU"
+                            },
+                            {
+                                "stringValue": "rec8kKTOTwsEVzaYS"
+                            },
+                            {
+                                "stringValue": "recrv8ywnekCBaxKF"
+                            },
+                            {
+                                "stringValue": "recXXd37jclGzRR90"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recG3OWxYstVVfFoG",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "5"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "The space to find everything from healing and future thinking to music, causes and ideas."
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-19T16:56:34.821Z"
+                },
+                "name": {
+                    "stringValue": "GREEN FIELDS"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "rec79yLAby5yxceVI"
+                            },
+                            {
+                                "stringValue": "recKqGZKrf4Wawwk1"
+                            },
+                            {
+                                "stringValue": "recRJk65O7Gl8mw7E"
+                            },
+                            {
+                                "stringValue": "reckbu9mwKQL2jvd6"
+                            },
+                            {
+                                "stringValue": "recrdZi16xkIFWWDM"
+                            },
+                            {
+                                "stringValue": "recIdH9JeJOtzCm9S"
+                            },
+                            {
+                                "stringValue": "recJf0fmgwY3PtEwE"
+                            },
+                            {
+                                "stringValue": "recTmYCkLSTWEDF6x"
+                            },
+                            {
+                                "stringValue": "recxF2NFYldytXeTz"
+                            },
+                            {
+                                "stringValue": "recZkvNdLylIrHyvn"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recLOTtMkrwBTBerm",
+            "updateTime": "2025-06-19T16:56:34.836783Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "11"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "TV performers, walkabouts, a big top, trampolenes and things to make and do in a huge, brightly decorated field next to the Acoustic Stage."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/e228f51e-abc2-4c85-3a33-b88763958700/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "KIDZ FIELD"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recz1VkTEbDEiuzE6"
+                            },
+                            {
+                                "stringValue": "recdQgpWFx1XbYvW8"
+                            },
+                            {
+                                "stringValue": "recWgfxbnIiPf0P9L"
+                            },
+                            {
+                                "stringValue": "recQIRexsXHfsuadi"
+                            },
+                            {
+                                "stringValue": "recHgTsHBQRg5o72U"
+                            },
+                            {
+                                "stringValue": "receCF8OSiROBcjNy"
+                            },
+                            {
+                                "stringValue": "recMG5xKOgfn365ZB"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recOvsgPZRuyy1e08",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "2"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Up the hill toward the Tor, just past Arcadia, a festival within a festival with a main stage, multiple smaller venues, bars, food, a ribbon tower, a wellness yurt and a place to get your hair cut."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/afe30b6e-2150-448d-57ce-e2aadf23f500/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "THE PARK"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "rec98CR2id2xmdMgC"
+                            },
+                            {
+                                "stringValue": "rec8Xcod5VwYaJDkG"
+                            },
+                            {
+                                "stringValue": "recJVxb7IKNNVeoNx"
+                            },
+                            {
+                                "stringValue": "recbozO9RVrgEgKNk"
+                            },
+                            {
+                                "stringValue": "recLtiBwS9UhYdeaR"
+                            },
+                            {
+                                "stringValue": "recFOzVjKEv3fh78g"
+                            },
+                            {
+                                "stringValue": "recqnxmSnBOU4YKhh"
+                            },
+                            {
+                                "stringValue": "recdjZyQ6f0OuwsQn"
+                            },
+                            {
+                                "stringValue": "recnlX9N9SS7SjYiv"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recSCUmLXjf7uvEzO",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "13"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Part dream, part vision, a buried secret world with a totemic main stage, the Mez Yard, Rum Shack and the new Kinetic space."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/e1aaf30f-194f-472b-1083-682b2c3e1300/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "THE COMMON"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recVOZbdFzLvoj7SD"
+                            },
+                            {
+                                "stringValue": "recFHVBQemZnxWr6M"
+                            },
+                            {
+                                "stringValue": "rec1el1X9Q0xgxexK"
+                            },
+                            {
+                                "stringValue": "recZ7PQUkNb2r4gCg"
+                            },
+                            {
+                                "stringValue": "rec86bXJxsDdobuPG"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recSf1Q69W5ueSuTF",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "3"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Celebrating the very best in dance, dub and electronic music with four stage venues and a unique space for discussions and debate."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/1e8829e0-0372-4256-afe3-5da92189aa00/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "SILVER HAYES"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recUYKvEWRLhUBz2C"
+                            },
+                            {
+                                "stringValue": "recNvk5X7p3SySgy0"
+                            },
+                            {
+                                "stringValue": "recmVDn0NJtSRKlQH"
+                            },
+                            {
+                                "stringValue": "recZkEKD5RY9JE6RF"
+                            },
+                            {
+                                "stringValue": "recVm353LaI7LKxbP"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/reca5TrAvdgu2eJJA",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-20T11:19:30.611071Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "9"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "\\-"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "STICKLINCH"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "nullValue": null
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recai57jdBmPC9USZ",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "15"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Late-night parties, underground music and queer culture across two fields and three stages plus the unforgettable Notting Hill Carnival experience."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/3aeb99c4-6b22-4ee3-c60a-c4d8899e3900/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "BLOCK9"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recFe32ki4kbWjiJm"
+                            },
+                            {
+                                "stringValue": "recdsD0jWhxyq8KqX"
+                            },
+                            {
+                                "stringValue": "recKVFMPxtR6eC6P5"
+                            },
+                            {
+                                "stringValue": "recH0D1H2hPyjeAss"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recbl1T0kwXU9Kcyj",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "16"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "A hefty collision of big top music venues, twisted fairground shows and iconic sculptural madness with a nod back to acid house."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/6aaad14b-3e89-4bbb-48fc-574b9316f900/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "UNFAIRGROUND"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recIOpnz0WQuMCT2d"
+                            },
+                            {
+                                "stringValue": "rec1hsmdE2LUXDchc"
+                            },
+                            {
+                                "stringValue": "recVnIphFsVfPMQ1x"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recd3WosHkogZB2RB",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "21"
+                },
+                "deletedAt": {
+                    "timestampValue": "2025-06-19T13:24:32.904Z"
+                },
+                "description": {
+                    "stringValue": "Underground legend Joe Rush\u2019s recreation of the car-henge monument using the carcasses of 24 classic cars. Part sculpture, part free party, alive with drums, DJs, dancing, and defiant joy."
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-19T13:24:32.904Z"
+                },
+                "name": {
+                    "stringValue": "CARHENGE"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "nullValue": null
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recfoMJHbbleg3oCd",
+            "updateTime": "2025-06-19T13:24:32.924095Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "18"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Just below The Park, a seaside pier in the middle of a field with candy floss, two music stages, instant tattoos, pinball and its own rock."
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-19T14:23:53.405Z"
+                },
+                "name": {
+                    "stringValue": "GLASTO ON SEA"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recuIO7hAcyVg3fDf"
+                            },
+                            {
+                                "stringValue": "rec7obzfgF0oPagoP"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recktQVBO7FZAWHRC",
+            "updateTime": "2025-06-19T14:23:53.417263Z"
+        },
+        {
+            "createTime": "2025-05-20T11:19:30.611071Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "4"
+                },
+                "deletedAt": {
+                    "timestampValue": "2025-05-20T11:19:30.580Z"
+                },
+                "description": {
+                    "stringValue": "\\-"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-05-20T11:19:30.580Z"
+                },
+                "name": {
+                    "stringValue": "SOUTH EAST CORNER"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "nullValue": null
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/reclgwedEuVwi6XxP",
+            "updateTime": "2025-05-20T11:19:30.611071Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "10"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Two stages, bars, live music, heavyweight DJs and dramatic sound experiences nestling in the tree canopy between the Other Stage and the Green Fields."
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/6a452e54-5759-403b-dbdf-f78c7210cf00/public"
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-19T13:24:32.904Z"
+                },
+                "name": {
+                    "stringValue": "THE GLADE"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recwie7cy8i1Sx2ov"
+                            },
+                            {
+                                "stringValue": "rec7urRFHAdxWoCij"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/rectcHS9ZsQDRjafz",
+            "updateTime": "2025-06-19T13:24:32.924095Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "1"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "\\-"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": true
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "MAIN STAGES"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "rec6nIQyQwSxeteuA"
+                            },
+                            {
+                                "stringValue": "recEsmaRfhSeXUHWF"
+                            },
+                            {
+                                "stringValue": "recSth2bbpbAxftmY"
+                            },
+                            {
+                                "stringValue": "recKUInNtkxu60dV1"
+                            },
+                            {
+                                "stringValue": "recnlX9N9SS7SjYiv"
+                            },
+                            {
+                                "stringValue": "recd2t9N7l5KU96Oa"
+                            },
+                            {
+                                "stringValue": "rec8vVHAHfoo4DOkP"
+                            },
+                            {
+                                "stringValue": "recjs8iPpEleoC0u0"
+                            },
+                            {
+                                "stringValue": "recchB1UFi2ScEIr9"
+                            },
+                            {
+                                "stringValue": "recVm353LaI7LKxbP"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recvitrN3RsxVaENB",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        },
+        {
+            "createTime": "2025-05-19T08:18:10.797839Z",
+            "fields": {
+                "areaPriority": {
+                    "integerValue": "12"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "\\-"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "isMain": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-12T20:38:05.928Z"
+                },
+                "name": {
+                    "stringValue": "SHANGRI-LA"
+                },
+                "posterBlurredPortraitUrl": {
+                    "nullValue": null
+                },
+                "posterLandscapeUrl": {
+                    "nullValue": null
+                },
+                "posterPortraitUrl": {
+                    "nullValue": null
+                },
+                "stageIds": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "recY5jVa981q8YSBH"
+                            },
+                            {
+                                "stringValue": "recVeUoBZfO6cugJa"
+                            },
+                            {
+                                "stringValue": "recTEn4dw9ACxvmrY"
+                            },
+                            {
+                                "stringValue": "rec1r5lz2Wj5XGnE2"
+                            },
+                            {
+                                "stringValue": "recZKduprX6SrhZQC"
+                            }
+                        ]
+                    }
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/areas/recw4VSzUU03Yb3ub",
+            "updateTime": "2025-06-12T20:38:05.944719Z"
+        }
+    ]
+}

@@ -1,0 +1,520 @@
+{
+    "documents": [
+        {
+            "createTime": "2024-05-28T10:30:23.636991Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Glastonbury\u2019s Joint Charities, unite this year under a message of hope \u2013 ordinary people doing extraordinary things. Whilst the impact of the climate crisis, is felt most by those least affected, it can be easy to feel despondent\u2026but this year, on this special weekend, we want to showcase the amazing, inspiring stories of resilience, creativity, and the power of collective action.\u00a0 Across the festival site, visit one of our spaces and hear the stories of those fighting, and add your voice, your story, to theirs. Together, we can unite and bring about a better tomorrow. </p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:30:23.060Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-2qGTOJs0Hf1sySr8GIfmUK/public"
+                },
+                "internalPageId": {
+                    "stringValue": "joint-charities"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-05-28T10:30:23.611Z"
+                },
+                "title": {
+                    "stringValue": "Joint Charities"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/1DbyCGE5c6J0KmauBWOYBQ",
+            "updateTime": "2024-05-28T10:30:23.636991Z"
+        },
+        {
+            "createTime": "2024-05-28T10:26:54.008943Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>This is placeholder content for the info page - please ignore or replace.</h1><h2>This will not display in-app unless added to an info section.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  </p>"
+                },
+                "deletedAt": {
+                    "timestampValue": "2024-05-28T10:27:52.406Z"
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:26:53.360Z"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "internalPageId": {
+                    "stringValue": "using-the-map-feature"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-05-28T10:27:52.406Z"
+                },
+                "title": {
+                    "stringValue": "Using The Map Feature"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/1NLDxrRwGY4PSCCRRQtE6a",
+            "updateTime": "2024-05-28T10:27:52.425119Z"
+        },
+        {
+            "createTime": "2025-06-05T07:58:55.354191Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p><b>Take it slow and go with the flow. </b>Don\u2019t try and zoom between a million things. Glastonbury is the world\u2019s largest greenfield festival. The site is vast, rugged and peppered with glorious distraction. Getting across it often takes longer than you think.</p><p><b>Have a plan B.</b> All stages \u2013 including outdoor ones, but especially smaller tented venues \u2013 have a capacity for safety reasons and there is a chance that for some very popular performances, those will be reached. At that point, access to the field / stage might be temporarily closed, so it\u2019s always worth having other options in mind.</p><p><b>Keep an eye on the app &amp; website.</b> This year, we\u2019ll be posting a list each morning of performances which are looking likely to be particularly busy, to help inform your choices for the day.</p><p><b>Get there early.</b> If there is a performance that you really don\u2019t want to miss, plan to arrive well in advance (some people literally get there hours ahead of time). And definitely try to avoid arriving just before or during a popular set.</p><p><b>Explore outer space.</b> Head out of the main stage arenas to discover the eclectic otherness and unexpected wonders \u2013 convivial campfires, fringe tents and bonkers bars \u2013 that truly set Glastonbury apart.</p><p><b>Take a break from the hubbub.</b> The site is truly ENORMOUS. For every area that feels busy, there will be another that\u2019s tranquil and calm. If the crowds ever feel too much, head in the opposite direction and you should soon find some space. For example, try the South East Corner during the day or chill out in the main stage arenas once the acts have stopped playing for the night.</p><p><b>Please be considerate of others. </b>If you\u2019re arranging chairs or picnic blankets to watch acts from, please position them in sensible, considerate places and make sure there are clear gaps where other people can easily walk through and be prepared to move them if requested by a steward.</p><p><b>Know that whatever you do will be wonderful.</b> Immerse yourself and just be in the moment.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-05T07:58:38.452Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-2ZbTrbnUSf1wwGNYaX7Scl/public"
+                },
+                "internalPageId": {
+                    "stringValue": "how-to-get-the-most-out-of-glastonbury-festival"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T07:58:55.333Z"
+                },
+                "title": {
+                    "stringValue": "How to get the most out of Glastonbury Festival"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/1j5QFLxdTQWodTIrNwkNIr",
+            "updateTime": "2025-06-05T07:58:55.354191Z"
+        },
+        {
+            "createTime": "2024-05-28T10:31:45.752623Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>Connect &amp; Charge</h1><p>Vodafone Connect &amp; Charge offers all Festival attendees free charging and WiFi to ensure they stay connected to each other and get the most out of Glastonbury Festival.\u00a0</p><p>Vodafone&#39;s free charging station lets customers sit back and relax so they can recharge their phones and themselves throughout the Festival from 8am to 11pm from Thursday to Sunday. There\u2019ll be a variety of wired and wireless charging options and a team on hand to help you keep connected.\u00a0\u00a0</p><p>You can also take advantage of our battery exchange service, where portable battery packs are available to hire all weekend for \u00a320, plus \u00a310 deposit \u2013 when it\u2019s out of charge, simply pop back to Connect &amp; Charge daily to exchange your battery pack for free for a fully charged one.\u00a0\u00a0</p><p>The Vodafone retail store will be open throughout the weekend offering replacement phones, charging cables and WiFi dongles, ensuring you\u2019re able to stay connected. Please note this facility will be cashless.\u00a0\u00a0</p><p>Vodafone Connect &amp; Charge is located in the centre of the Glastonbury site, in the close vicinity of The Other Stage, The Glade, West Holts and of course, The Pyramid Stage!\u00a0\u00a0</p><p>Connect &amp; Charge Opening Times:\u00a0\u00a0</p><p>Wednesday \u2013 10:00 - 23:00\u00a0\u00a0</p><p>Thursday-Sunday \u2013 08:00 - 23:00\u00a0\u00a0</p><p>Monday - 08:00 -12:00 (Battery Pack returns only)\u00a0\u00a0</p><h1>VeryMe</h1><p>VeryMe Rewards is more than just a loyalty programme. With Vodafone\u2019s customers at the heart of everything we do, we\u2019re always on the lookout for the next best reward to bring you excitement, joy or that extra bit of security.\u00a0\u00a0</p><p>We\u2019ll perk up your week with Friday treats, help with those everyday buys with handy discounts, and give you a chance for a holiday of a lifetime with our incredible prize draws.\u00a0</p><p>So, whether you\u2019re on the go or taking it easy at home, enjoying the everyday or looking for the extraordinary \u2013 we\u2019ve got a reward for that.\u00a0\u00a0</p><p>If you\u2019re a Vodafone customer, make sure you\u2019re accessing the VeryMe Rewards programme available on the MyVodafone app!\u00a0\u00a0</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:31:44.929Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-5ifJuSSteGBuMOKEx3tege/public"
+                },
+                "internalPageId": {
+                    "stringValue": "vodafone-at-glastonbury"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T07:58:54.716Z"
+                },
+                "title": {
+                    "stringValue": "Vodafone at Glastonbury"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/1uol0FPjSXmKwQisIorNZP",
+            "updateTime": "2025-06-05T07:58:54.732591Z"
+        },
+        {
+            "createTime": "2024-05-28T10:31:02.331247Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Property Lock-ups are open 24 hours a day and are prominently located around the site. Valuables and other stuff can be left at them for free. </p><p>They are marked on Festival maps with a keyhole symbol.</p><p>Thieves will find it harder if you take some basic precautions. Be inventive about hiding your valuables \u2013 sleep with them inside your sleeping bag at night, postcode your valuables. UV pens are available at Property Lock-ups.</p><p>If you are unfortunate enough to be a victim of crime, report it to the Police HQ where you can get help and a crime statement for insurance purposes.</p><p>If you have information about a crime report it to the police, a Campsite Steward or at one of the Info Points.</p><p>Lost Property is at Worthy Welfare at the top of the Big Ground. Loads of things are handed in, and much is matched with owners. You are more likely to have success in reclaiming your property if you do it during the Festival, but you can also enquire about lost property after the Festival, through the website.</p><p>If you find a lost item please take it to Worthy Welfare or hand it in at an Info point.</p><p>Your tent is your property \u2013 do not leave it behind. It is a myth that tents left after the Festival are reused or recycled. Please pack up your tent along with all your belongings and Leave No Trace.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:31:01.733Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6qcX209sbst5zUpEaXXhUS/public"
+                },
+                "internalPageId": {
+                    "stringValue": "lost-property"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-24T08:01:13.561Z"
+                },
+                "title": {
+                    "stringValue": "Lost Property"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/2W9CyTwXd7qtQL0XwzeZic",
+            "updateTime": "2025-06-24T08:01:13.569919Z"
+        },
+        {
+            "createTime": "2024-05-28T10:29:19.865071Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>This is placeholder content for the info page - please ignore or replace.</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  </p><p></p>"
+                },
+                "deletedAt": {
+                    "timestampValue": "2024-06-03T13:54:37.576Z"
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:29:19.260Z"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "internalPageId": {
+                    "stringValue": "learn-more-about-line-up-sharing"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-06-03T13:54:37.576Z"
+                },
+                "title": {
+                    "stringValue": "Learn More About Line-Up Sharing"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/30UngygCNCCaW3OWOGezDa",
+            "updateTime": "2024-06-03T13:54:37.597231Z"
+        },
+        {
+            "createTime": "2024-05-28T10:25:19.098239Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>First off, our best advice would be to only bring what you really need \u2013 however you arrive, you&#39;ll inevitably have to carry your stuff a fair distance to where you camp. And the lighter you travel, the quicker you\u2019ll get through the gates. </p><p>Please be patient. For security reasons, ticket holders will be subject to searches of their vehicles, their bags and their person. There will be separate search lanes for those with large luggage and trolleys, and we anticipate that these lanes will be significantly slower.</p><h3><b>What to bring </b></h3><p><b>Don&#39;t skimp on your kit. </b>Please bring a sturdy tent and other essentials that will last a lifetime of festival camping \u2013 and make sure you take them back home with you!</p><p><b>Travel light. </b>Only bring what you need, the site is vast and it\u2019s a decent trek between Festival gates and campsites.</p><h3><b>Here\u2019s a list of Festival essentials:</b></h3><ul><li><p>Festival ticket</p></li><li><p>ID (needed for leadbooker on coach packages, hospitality, sunday tickets, Challenge 21)</p></li><li><p>Money / cards</p></li><li><p>Complete sturdy tent with tent poles etc</p></li><li><p>Warm sleeping bag/duvet &amp; pillow</p></li><li><p>Good quality camping mattress</p></li><li><p>Comfortable wellies or boots</p></li><li><p>Warm jumper</p></li><li><p>Waterproof coat / clothing</p></li><li><p>Change of clothes</p></li><li><p>Toiletries / towel</p></li><li><p>Mobile phone battery pack</p></li><li><p>Refillable water bottle</p></li><li><p>Toilet paper</p></li><li><p>Suncream &amp; hat</p></li><li><p>Ear plugs</p></li><li><p>Paracetamol &amp; first aid items</p></li><li><p>Torch &amp; batteries</p></li><li><p>Bin bag for dirty laundry!</p></li></ul><h3><b>Do not bring:</b></h3><ul><li><p>Disposable vapes</p></li><li><p>Illegal drugs</p></li><li><p>Glass</p></li><li><p>Fireworks</p></li><li><p>Chinese lanterns</p></li><li><p>Knives</p></li><li><p>Drones</p></li><li><p>Gazebos</p></li><li><p>Personal stereos</p></li><li><p>Glitter or wipes biodegradable or otherwise.</p></li></ul><p>For more information on what to bring, <a href=\"https://www.glastonburyfestivals.co.uk/info/#advice-and-facilities--packing-list\">click here</a>.</p><p><b>REUSE, REDUCE, RESPECT. In a stand to make our world more sustainable, please avoid single-use items and opt for reusable options wherever possible, and help us look after the land on which the Festival stands: love the farm, leave no trace.</b></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:25:18.376Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-72F1zXj2rop2JxpC8X2j8W/public"
+                },
+                "internalPageId": {
+                    "stringValue": "packing-list"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T07:58:55.391Z"
+                },
+                "linkedPages": {
+                    "arrayValue": {
+                        "values": [
+                            {
+                                "stringValue": "2W9CyTwXd7qtQL0XwzeZic"
+                            },
+                            {
+                                "stringValue": "7xQlWz5Wn3yHRYOWW3PJnt"
+                            }
+                        ]
+                    }
+                },
+                "title": {
+                    "stringValue": "Packing List"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/3sBb5VRGEut6Mnm9xraPcn",
+            "updateTime": "2025-06-05T07:58:55.405903Z"
+        },
+        {
+            "createTime": "2024-05-28T10:27:42.601439Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>This is placeholder content for the info page - please ignore or replace.</h1><h2>This content will not display in-app unless added to an info section</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  </p><p></p>"
+                },
+                "deletedAt": {
+                    "timestampValue": "2024-05-28T10:27:46.127Z"
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:27:41.992Z"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "internalPageId": {
+                    "stringValue": "accessibility-policy"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-05-28T10:27:46.127Z"
+                },
+                "title": {
+                    "stringValue": "Accessibility Policy"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/3uDtXvtVQMTYp1VAikbUEh",
+            "updateTime": "2024-05-28T10:27:46.155007Z"
+        },
+        {
+            "createTime": "2024-05-28T10:26:21.281695Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>This is placeholder content for the info page - please ignore or replace.</h1><h2>This will not display in-app unless added to an info section.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  </p><p></p>"
+                },
+                "deletedAt": {
+                    "timestampValue": "2024-05-28T10:27:52.328Z"
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:26:20.664Z"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "internalPageId": {
+                    "stringValue": "using-the-line-up-feature"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-05-28T10:27:52.328Z"
+                },
+                "title": {
+                    "stringValue": "Using The Line-Up Feature"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/43ENNTDnXv4fHjZ72FIqVB",
+            "updateTime": "2024-05-28T10:27:52.344511Z"
+        },
+        {
+            "createTime": "2024-05-28T10:24:46.378687Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Glastonbury is committed to being an inclusive event that everyone can enjoy.</p><p>You can view the full Access map on the Glastonbury website <a href=\"https://www.glastonburyfestivals.co.uk/information/access-information/access-map/\">here.</a></p><p>We have been working with Attitude is Everything since 2005 and are signed up to their \u2018Live Events Access Charter\u2019. Attitude is Everything is a charity set up to help improve D/deaf, disabled and neurodivergent people\u2019s access to live music.</p><p>The Festival&#39;s access facilities are for Festival-goers with permanent disabilities and long-term health conditions. They are not available to Festival-goers with temporary impairments/ conditions.</p><p>Access to all these facilities <b>must </b>have been pre-arranged prior to the festival.</p><p><b>Applications are now closed for the 2025 festival.</b></p><p>The Festival caters for a wide range of disabilities and would like to remind everyone that not all disabilities look the same.</p><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-78KFdousEUaucLzbcuWi7t/public\" alt=\"GF Access\"><h1>Viewing Platforms</h1><p>User Guidance:</p><ul><li><p>There are viewing platforms at all the main stages. These raised platforms are solely for Festival-goers that need to be seated to be able to watch the performances, plus one accompanying person.</p></li><li><p>There are designated DeafZone viewing platforms for Deaf Festival-goers to use at Pyramid viewing platform 1, and at the Other Stage viewing platform.</p></li><li><p>Only Festival-goers that have registered with the Access Team in advance of the festival, and who have been issued with the correct passes can use these viewing platforms/areas.</p></li><li><p>The viewing platforms can get very busy so may be overwhelming for customers who find crowded spaces difficult.</p></li><li><p>Festival-goers using electric scooters will be asked to park these at the bottom of the ramps in a designated space so that more space is available on the viewing platforms.</p></li><li><p>Chairs are not provided on any of the platforms, however access customers and their +1 accompanying person can bring their own chairs to use on these.</p></li><li><p>Every viewing platform has a team of Access Stewards checking wristbands and ensuring customers are using the space safely. Viewing Platforms are run on a first come first serve basis, once these are at capacity stewards will close the platform and revert to a one off/one on system.</p></li><li><p>Wheelchair charging points will be available on some of the viewing platforms.</p></li><li><p>Smoking is not permitted on any of the viewing platforms.</p></li><li><p>Anyone found to be misusing the viewing platforms or behaving in an unacceptable manner will be asked to leave the platform.</p></li><li><p>At some stages/tents there will also be ground level designated viewing areas.</p></li></ul><p></p><h1>DeafZone Tent</h1><p>The DeafZone Tent is located at the Meeting Point and is open from 10am \u2013 8pm throughout the Festival.</p><p>Here Deaf Festival-goers can book interpreters to cover music, theatre, poetry, or any other element of the Festival with them. There are also interpreters covering all the performances at the Pyramid &amp; Other Stages and the Leftfield Tent.</p><p>From the DeafZone Tent, Deaf staff also give Deafhood awareness information, British Sign Language (BSL) classes and BSL poetry throughout the Festival. The Tent also acts as a \u2018respite\u2019 space for Deaf Festival-goers, where they can relax and communicate freely. And because it also attracts many hearing people who have already learned some BSL, it is a vibrant and exciting place for people to make new friendships.</p><p></p><h1>Sensory Calm Space</h1><p>There will be 5 Sensory Calm Spaces onsite.</p><p>The aim of the spaces is to provide safe, low-level stimulation and recalibration zones for our neurodivergent Festival-goers. This is created by using adjustable lighting, textures, and sounds. There will also be weighted blankets and ear defenders that people can use whilst in the space.</p><p>The spaces are managed by the charity Diverse UK, who will be bringing a mixture of Autism specialists and neurodiverse volunteers who are passionate about the importance of calm spaces in busy, vibrant, and loud festival environments.</p><p>The spaces are all shown on the Access Map and will be open at the following times:</p><p><b>Clapps Cross \u2013 Between Leftfield &amp; West Holts</b></p><ul><li><p>Wednesday: 16:00 - 22:00</p></li><li><p>Thursday to Sunday: 10:00 - 00:00</p></li></ul><p><b>Main Market \u2013 Near the Bandstand</b></p><ul><li><p>Wednesday: 16:00 - 22:00</p></li><li><p>Thursday to Sunday: 10:00 - 22:00</p></li></ul><p><b>Silver Hayes - Next to Worthy Rest</b></p><ul><li><p>Wednesday: Closed</p></li><li><p>Thursday to Sunday: 12:00 - 02:00</p></li></ul><p><b>Dragons Tail \u2013 Shangri La</b></p><ul><li><p>Wednesday: Closed</p></li><li><p>Thursday to Sunday: 21:00 - 04:00</p></li></ul><p><b>Green Welfare Tent</b></p><ul><li><p>This space will be open 24hrs a day throughout the duration of the Festival.</p></li></ul><p></p><h1>Blind and Visually Impaired Festival-Goers</h1><p>There will be a team of Sighted Guides available to aid our blind and visually impaired Festival-goers.</p><p>The team are available between the hours of 9am \u2013 9pm on the Friday, Saturday &amp; Sunday. They can be booked through the Spring Ground Accessible Campsite Office.</p><p>We are also excited to offer Festival-goers with a visual impairment, the opportunity to try a \u2018wearable assistive technology headset,\u2019 at the Pyramid Stage VP.</p><p>The headsets work similarly to a virtual reality headset, they use a high-quality camera to capture the user\u2019s surrounding environment and display an enhanced image inside the headset. Users can customise the image to suit their sight profile, making it easier to see faces and experience the theatrics of the artists performing on the Pyramid Stage.</p><p><b>Festival-goers must have pre-registered with the Access Team to use this provision.</b></p><p></p><h1>Spring Ground Accessible Campsite\u00a0</h1><p>The Accessible Campsite is in Spring Ground which is next to the Woodsies Tent. It is a calm, friendly space for Deaf, Disabled and Neurodivergent Festival-goers to camp in.</p><p>Access to this campsite <b>must</b> have been pre-arranged and confirmed prior to the Festival. This field is stewarded 24/7 and only Festival-goers with the correct wristbands can gain access.</p><p>Event Mobility are based in this campsite.</p><p>The Festivals Access Team HQ is based in this campsite. This office is open at the following times.</p><ul><li><p><b>Wednesday:</b> 08:00 - 22:00</p></li><li><p><b>Thursday: </b>08:00 - 22:00</p></li><li><p><b>Friday</b>: 08:00 - 21:00</p></li><li><p><b>Saturday:</b> 08:00 - 21:00</p></li><li><p><b>Sunday:</b> 08:00 - 21:00</p></li><li><p><b>Monday:</b> 08:00 - 16:00</p></li></ul><p></p><h1>Wicket Ground Campsite\u00a0</h1><p>Wicket Ground Accessible Campervan field is next to Spring Ground. Access to this campervan field <b>must</b> have been pre-arranged and confirmed prior to the Festival. All spaces in this field are sold out.</p><p>This field is stewarded 24/7 and only Festival-goers with the correct wristbands can gain access.</p><p></p><h1>Wheelchair Accessible Toilets and Changing Places Toilets</h1><p>There are wheelchair accessible toilets located throughout the festival. These have been locked to avoid them from being misused. Festival-goers who applied for access to these will have been given the code for these.</p><p>There are 2 Changing Places Toilets onsite, one is in the accessible campsite, and one is in Plumley\u2019s Paddock. Only Festival-goers who have applied for access to these will be able to use them.</p><p></p><h1>Accessibility Sessions</h1><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-7BX0Fws0YIKU5kLtUONRSR/public\" alt=\"Accessibility sessions\"><p>This year\u2019s Festival will include Accessibility Sessions at Glastonbury-On-Sea and Terminal 1. </p><p>These sessions are designed to give Deaf, disabled, and neurodivergent Festival-goers the opportunity to enjoy these areas in a more relaxed and inclusive environment \u2014 with reduced crowds and lower sound levels.</p><p>Support services will be available during these sessions, including:</p><ul><li><p>BSL interpreters</p></li><li><p>Sighted guides</p></li></ul><p>Priority access will be given to Festival-goers wearing an Access Wristband, along with PAs or one accompanying person.</p><p>The timings of the sessions are below.</p><p><b>Terminal 1</b></p><ul><li><p>Saturday: 11:00 - 12:30</p></li></ul><p><b>Glastonbury-on-Sea</b></p><ul><li><p>Sunday: 10:00 - 13:00</p></li></ul><p></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:24:45.543Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4l1SnjAyGv6CA6iIQHUw0i/public"
+                },
+                "internalPageId": {
+                    "stringValue": "accessibility"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-13T14:06:21.188Z"
+                },
+                "title": {
+                    "stringValue": "Accessibility"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/4ShGRNfEHHqDnmpBnuptFz",
+            "updateTime": "2025-06-13T14:06:21.195455Z"
+        },
+        {
+            "createTime": "2024-05-28T09:57:50.096927Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>This is test/example content to allow for production testing to occur.</h1><p>Content to be <b>updated</b> or <b>page removed </b>before going live.</p><p></p>"
+                },
+                "deletedAt": {
+                    "timestampValue": "2024-05-28T10:17:52.728Z"
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-01T22:05:48.356Z"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "internalPageId": {
+                    "stringValue": "example-info-page"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-05-28T10:17:52.728Z"
+                },
+                "title": {
+                    "stringValue": "Example Info Page"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/4ZDjzR1X6UNZkiduAUyCYF",
+            "updateTime": "2024-05-28T10:17:52.756623Z"
+        },
+        {
+            "createTime": "2024-05-28T10:21:17.713647Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>Getting to and from Glastonbury</h1><p>The greenest way to travel to Glastonbury Festival is by bike and public transport, and over a third of ticket-holders travel to the Festival on coaches, trains or other forms of public transport. We\u2019d encourage you to join them, and reduce your carbon footprint.</p><p>For those cycling to the Festival, Bike To Glasto provides free, secure bike lock-ups, as well as a designated cyclists-only campsite with showers. For more information about cycling to Glastonbury Festival, <a href=\"https://www.glastonburyfestivals.co.uk/information/getting-here/by-bike/\">click here</a>.</p><p>If driving to the Festival, please join us in our pledge to reduce carbon emissions by sharing lifts. Car sharing is not only better for the environment but will also help share the cost of fuel. </p><p>For those being dropped-off at the Festival, there is a 24-hour Drop and Collect service with a 24/7 bus service that runs to and from the Festival (GATE A) continuously. Head towards Evercreech on the A371 and follow the signs for Drop and Collect or DC. For more information, please <a href=\"https://www.glastonburyfestivals.co.uk/information/getting-here/2592-2/\">click here</a>.</p><p>If you are planning on parking at the Festival, you will need a car parking pass bought in advance. Please place this on the car\u2019s windscreen well before you reach the Festival site.</p><p>Make sure you listen to Worthy FM (87.7 FM) in the App on your journey as it\u2019s great for traffic news, both as you arrive at Glastonbury and when you leave. Try and listen-in to the Worthy FM morning show each day to find out what is happening at the Festival.</p><h1>By Coach</h1><p>Coaches are one of the best \u2013 and greenest \u2013 ways to get to Glastonbury. In 2025, our official coach travel partner, National Express, will once again be running services from over 90 locations direct to the Festival\u2019s own on-site coach station right by the Festival gates. For more information about coach services to the Festival <a href=\"https://www.glastonburyfestivals.co.uk/information/getting-here/by-coach/\">click here</a>.</p><h1>By Train</h1><p>The nearest train station to the Festival site is Castle Cary. In 2025, Glastonbury is working with the Trainline as an official travel partner \u2013 download their <a href=\"https://www.thetrainline.com/\">app</a> for best value SplitSave rail tickets to Castle Cary station. There is a free shuttle bus for Festival ticket-holders running between Castle Cary station and Glastonbury throughout the Festival.</p><p>You can save 1/3 off all rail travel with a Railcard, or if three or more people are travelling together, you can also get a third off your rail ticket on some trains with GroupSave. If using a railcard, do not forget to bring it along with your ticket.</p><h1>By Car</h1><p>If driving to the Festival, please consider filling all the seats in your car and join us in our pledge to reduce carbon emissions. Not only is car-sharing more sustainable, but it will also help share the cost of fuel. </p><p>Each car will need a car park pass (\u00a355) to park at Glastonbury Festival. These can be bought in advance online <a href=\"https://glastonbury.seetickets.com/content/extras\">here</a>. As with your Festival tickets, car park passes are non-transferable, and attempts to re-sell them may result in their cancellation. </p><p>As usual, car parks will open on Tuesday evening, before gates open, allowing Festival-goers to arrive throughout the evening, when traffic volumes are low. This year, drivers can arrive from 9pm.</p><ul><li><p>Please note that there will be no entertainment or facilities (other than toilets) in the car parks and Festival-goers will be expected to remain in their cars until Festival gates open at 8am on Wednesday morning.</p></li><li><p>If you plan to get here early, please make sure you eat before you arrive and that you bring a reusable bottle of water to help keep you cool and hydrated.</p></li><li><p>The busiest time to arrive by car is between 7am and 2pm on Wednesday. </p></li><li><p>Traffic is likely to be flowing more freely after 5pm on Wednesday. Those choosing to arrive on Wednesday evening or on Thursday / Friday are likely to experience less traffic and there will still be camping space available (stewards at the gates can advise where). </p></li></ul><h1>By Bike</h1><p>As part of the Festival&#39;s continued commitment to reducing audience transport C02 emissions, we encourage people to cycle to the Festival. Glastonbury offers free, secure bike lock-ups and a dedicated campsite \u2013 with showers \u2013 for cyclists and Bike to Glasto operates luggage drop-off facilities from London and various locations in Somerset direct to the Festival site. For more info, please <a href=\"https://www.glastonburyfestivals.co.uk/information/getting-here/by-bike/\">click here</a>.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:21:16.632Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4CHxMaMfjfJA5u8OGLNLib/public"
+                },
+                "internalPageId": {
+                    "stringValue": "getting-here"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T07:58:55.389Z"
+                },
+                "title": {
+                    "stringValue": "Getting Here"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/4fRMwn6fRAnWviZ2NHIJmE",
+            "updateTime": "2025-06-05T07:58:55.403327Z"
+        },
+        {
+            "createTime": "2024-05-28T10:33:01.996047Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>All Festival-goers sign up to support Glastonbury\u2019s Worthy Pledge agreeing to:</p><ul><li><p>Respect the fields and the people in them.</p></li><li><p>Only use the toilets provided and not pee on the land.</p></li><li><p>Dispose of rubbish carefully using the correct bins.</p></li><li><p>Keep campsites tidy.</p></li><li><p>Take all belongings / camping gear home \u2013 and leave no trace.</p></li></ul><p>Please honour your pledge to respect the fields and each other and help Glastonbury Festival remain the welcoming place it is.</p><h3><b>Recycling</b></h3><p>Please use the recycling bins provided. All cans, plastic, paper, wood and organic waste are separated and recycled. </p><p>All cups, plates and cutlery at Glastonbury Festival are either reusable or biodegradable \u2013 please place these in our orange-topped food bins to be turned into glorious compost.</p><p>All tin cans and recyclable plastic should be placed in our green-topped bins to be recycled.</p><p>And all non-recyclable waste should be placed in our black-topped bins. </p><p>We are really proud of our recycling operation and all those who work hard to run it. As the country\u2019s largest privately owned facility it rivals any council-run system. </p><h3><b>Love Your Tent</b></h3><p>Love your tent \u2013 a tent is for life not just for a festival. We want people to bring a sturdy tent that is going to last a lifetime of camping experiences rather than just one festival or summer.</p><h3><b>Please Take it Home</b></h3><p>Since 2019, 98 percent of all tents and camping equipment have been taken home after each Festival. This tremendous collaborative effort is something we are very grateful for. Please continue to \u201cLove the Farm and Leave No Trace.\u201d Tents abandoned in campsites are difficult to recycle and, regrettably, could end up in landfill. Please take down your tent, pack it up, and use it again \u2013 and again!</p><h3><b>Compost Toilets</b></h3><p>We love compost toilets. They are the most environmentally-friendly way of dealing with toilet waste. Not only are they odour- and water-free but after a year decomposing, they also produce a wonderful compost. We will have over 1000 of these across the site this year so give them a go!</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:33:01.449Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-5XpGiWuJdTjdj2qI1YFj1H/public"
+                },
+                "internalPageId": {
+                    "stringValue": "green-glastonbury"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T07:58:55.374Z"
+                },
+                "title": {
+                    "stringValue": "Green Glastonbury"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/5RntHRncccC6wGwAeozOXv",
+            "updateTime": "2025-06-05T07:58:55.391919Z"
+        },
+        {
+            "createTime": "2024-05-28T10:32:34.691823Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>At Glastonbury, like nowhere else, you can track down everything from British artisan creations to fun festival essentials as well as necessary day to day items.</p><p>As well as being an arts festival, Glastonbury is a food festival offering over 400 food traders across an array of culinary choices. Whether you fancy eating Thai, Italian, Indian, Caribbean, Greek or go looking for pies, burgers or a good old fashioned bacon sandwich, there\u2019s loads to choose from. There are also a large number of vegetarian stalls and more vegan ones than ever before. Specific dietary requirements can be catered for by many of our traders.</p><p>Take time out during the Festival to explore the markets \u2013 they are all over the Festival site. Have a good wander around \u2013 you\u2019ll be amazed at what you can find.</p><p>Affordable food is very important to us at Glastonbury Festival and since 2015 many of our Traders have been helping Festival-goers go easy on their pocket. This year 300 stallholders \u2013 that\u2019s over 75 percent of all traders \u2013 will have a \u00a36 offering. Participating traders will feature a \u00a36 sticker on their menu boards along with information on the food they\u2019re offering, so they will be easy to spot.</p><p>The \u00a36 offering makes it possible to sample a huge range of delicious world cuisine without breaking the bank. \u00a36 options could include a katsu wrap, classic grilled cheese with slaw, muesli &amp; coffee breakfast combination, a bowl of homemade chilli, a kid\u2019s meal and drink, a falafel pitta, a hearty salad, Thai curry and rice, chicken with roast potato and gravy or a deal on coffee and cakes for two. The choices are endless.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:32:34.091Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-37IXjydcCDkvi4af54oBFb/public"
+                },
+                "internalPageId": {
+                    "stringValue": "food-and-shopping"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-22T16:46:07.911Z"
+                },
+                "title": {
+                    "stringValue": "Food & Shopping"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/5osrgCy5Vf44kDPnjYNRMO",
+            "updateTime": "2025-06-22T16:46:07.918783Z"
+        },
+        {
+            "createTime": "2024-06-06T08:27:10.571599Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>test</p>"
+                },
+                "deletedAt": {
+                    "timestampValue": "2024-06-06T08:27:47.312Z"
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-06-06T08:27:02.979Z"
+                },
+                "imageUrl": {
+                    "nullValue": null
+                },
+                "internalPageId": {
+                    "stringValue": "test"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-06-06T08:27:47.312Z"
+                },
+                "title": {
+                    "stringValue": "Test"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/67ICQGSmNnwfE0cEgtUj8H",
+            "updateTime": "2024-06-06T08:27:47.322783Z"
+        },
+        {
+            "createTime": "2024-06-03T16:43:59.658095Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Support independent journalism at Glastonbury and <b>bag yourself a Guardian rucksack and magazine</b> from our on-site trailer, and <b>check out the Guardian\u2019s Daily Guides</b> in the Glastonbury app \u2013 your curated source for standout performances, hidden gems, and must-see moments across the festival. Attend our <b>Guardian Live events at The Astrolabe</b>, at <b>12pm on Friday, Saturday and Sunday</b>. These exclusive interviews feature some of the most compelling cultural voices of our time:</p><ul><li><p><b>Friday</b>: Drag performer, author and advocate <b>Bimini Bon Boulash</b> joins <b>Zoe Williams</b> for a wide-ranging discussion on identity, creativity and cultural transformation.</p></li><li><p><b>Saturday</b>: Magician and storyteller <b>Steven Frayne</b> \u2013 formerly known as <b>Dynamo</b> \u2013 speaks with <b>Zoe Williams</b> about his extraordinary journey, resilience, and redefining the art of magic.</p></li><li><p><b>Sunday</b>: Indie legends <b>Pete Doherty and Carl Bar\u00e2t</b> of <b>The Libertines</b> sit down with <b>Miranda Sawyer</b> to reflect on their enduring legacy, creative chemistry, and the realities of life in the spotlight.</p></li></ul><p>Whether you&#39;re planning your day, picking up a festival keepsake, or taking in an unforgettable live conversation, the Guardian is your guide to Glastonbury.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-06-03T16:43:51.113Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-7BmlMXJLZ1MvXJqHHTdfag/public"
+                },
+                "internalPageId": {
+                    "stringValue": "the-guardian-at-glastonbury"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-16T17:17:25.089Z"
+                },
+                "title": {
+                    "stringValue": "The Guardian at Glastonbury"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/6t5KrWbxITc5nZJ1ZMoYSr",
+            "updateTime": "2025-06-16T17:17:25.101103Z"
+        },
+        {
+            "createTime": "2024-05-28T10:19:12.574783Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>This is example content - please ignore or replace.</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  </p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:19:10.924Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-1JQKVGbYhzEjosvunUsb9q/public"
+                },
+                "internalPageId": {
+                    "stringValue": "advice-and-facilities"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-05-28T10:19:12.550Z"
+                },
+                "title": {
+                    "stringValue": "Advice And Facilities"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/7cmNixXG5aMFnowDckylUb",
+            "updateTime": "2024-05-28T10:19:12.574783Z"
+        },
+        {
+            "createTime": "2024-05-28T10:22:33.131087Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<h1>Getting In</h1><p>If you have your friend\u2019s ticket, make sure you get it to them before they leave for the Festival or at least 5 miles away from the site. It is extremely difficult to meet at the gates.</p><p>Be prepared to show your ticket for inspection at car park entrances or when catching buses, BUT do not hand over your ticket to anyone, even if they look like stewards, until you reach the turnstiles where they check your ticket/photo.</p><p>Do not leave the turnstile until you have been wristbanded by a gate steward \u2013 and make sure that your wristband is firmly secured. If you have a problem there are Ticket Enquiry Cabins near Pedestrian Gates.</p><p>Keep your ticket and wristband safe once on site, as you&#39;ll need them if you want to leave/re-enter the site, including going to and from car parks, caravan and campervan fields and offsite campsites (e.g. Worthy View).</p><p>Follow Gate Stewards\u2019 instructions about passouts. There are dedicated lanes for Festival-goers who have already been on site which are separate from those arriving for the first time. Get yourself in the correct lane.</p><h1>Money</h1><p>There are cash machines around the Festival site. All ATMs are open 24 hours a day, and accept all major debit and credit cards. There is a \u00a32.95 charge per transaction. </p><p>Get cash out with a friend for security \u2013 and expect to queue at peak times.</p><h1>Children</h1><p>The same notions of responsible childcare apply at Glastonbury Festival as they would in any busy city environment: </p><ul><li><p>Please be aware that buggies and kinder wagons can be awkward to manoeuvre and difficult for other pedestrians to see in busier areas. Please allow crowds to disperse before attempting to move your children and be mindful of taking young children into densely crowded areas. </p></li><li><p>Some busy adult-orientated late-night areas, particularly our venues in the South East Corner, are not appropriate for younger audiences at night. We strongly advise families with younger children under the age of 13 to leave these areas before 10pm. Even for teenagers under the age of 18, these areas may not be suitable after this time. </p></li></ul><p>Children aged 12 and under have free entry when accompanied by a ticket-holding adult at all times. If your child looks over 12, it would be wise to have some ID to confirm their age.</p><p>Markable wristbands for kids will be available from Green Kids, the Kidzfield and at Info points. Please use them to write on your contact phone number. A simple but effective way of reuniting you with your wandering child!</p><p>If you want somewhere quiet to camp, there are two Family Camping Fields, one to the north-west and one on the north-east side of the site. If you are arriving late-on, you are more likely to find space still available on the west side.</p><p>For lost kids, see under Medical &amp; Welfare.</p><h1>Fire</h1><p>Common sense prevails here, but please note these useful guidelines:</p><p>If you discover a fire in your camping area, immediately raise the alarm by telling your nearest Steward.</p><p>Candles are dangerous and useless in a field; use torches around tents.</p><p>Only buy wax flares from authorised Festival traders \u2013 check their accreditation.</p><p>Light fires well away from tents and don\u2019t dig holes.</p><p>Use the firewood supplied by the Festival \u2013 never from hedges and trees.</p><p>Don\u2019t burn plastic, please \u2013 it stinks.</p><p>Never use petrol or paraffin to start or revive a fire.</p><p>Camping stalls can provide or change camping gas cylinders for you. If you change them yourself, always do it outside your tent. Ensure the gas tap is in the off position, otherwise the gas will ignite when the cylinder is pierced.</p><p>If you cook, do it outside your tent, and don&#39;t take BBQs inside your tent even when they&#39;re cooling down as they can still give off deadly fumes.</p><p>Do NOT bring or use Chinese sky lanterns. They may look pretty, but they are banned from the site.</p><p>Legislation about not smoking inside public places applies to all tented venues on site.</p><h1>Medical and Welfare</h1><p>Festival Medical Services (FMS) have doctors, nurses and other health professionals on site throughout. The principal facility is Big Ground Medical supported by medical units in Park Home and Cabaret and First Aid at Worthy View.</p><p>There are two dispensing/retail pharmacies \u2013 at Big Ground and on the trader run between the Bread &amp; Roses Bar and The Circus Tent.</p><p>Worthy Welfare/SARSAS \u2013 situated at the top of Big Ground, near the Church (it will be well signposted) \u2013 is the main centre for practical welfare support, which is open 24 hours a day throughout the Festival. If your problem is practical rather than medical, try here first. Staffed by expert providers, it offers a range of confidential services including caring for people who are experiencing difficulties after consuming drugs or alcohol, those with crowd anxiety, people separated from friends or families, as well as offering information about specialist services including drugs and counselling. It is also a good place to go if you lose all your kit, for example \u2013 not least because they also handle Lost Property during the Festival. They also look after found children after 7pm (found kids are looked after in the Kidzfield until that time).</p><p>Green Welfare \u2013 run by iTHINC harm reduction team \u2013 is situated just beyond the railway line at the entrance to the Green Fields. Green Welfare is a good place to head for if you\u2019re feeling under the weather or just need somewhere quiet to sit and chat to someone.</p><p>Worthy Rest tents \u2013 situated in Silver Hayes and The Park \u2013 are places where anyone can go if they need some time away from it all. Hosted by Mind, SARSAS and iTHINC harm reduction team, these organisations are also on hand to provide specialised support, advice and counselling. SARSAS will also be working from a cabin next to Worthy Welfare in Big Ground.</p><p>The Festival Branch of Samaritans have been going to Glastonbury since 1974 offering 24 hour emotional support. They have a team of volunteers who work shifts throughout the day and night dealing confidentially with upset, depressed or suicidal people. The Samaritans\u2019 tent (with prominent green and white \u201cSAMARITANS\u201d banners and huge flags) will be situated in the Main Markets area, near Whitelake Bridge, between the Pyramid and Other Stages.</p><p>The Green Fields offer a variety of alternative and complementary therapies.</p><h1>Getting around Site</h1><p>The Glastonbury Festival site is vast, rugged and littered with glorious distraction. It takes at least an hour to walk across the site. If it is muddy it will take even longer. Give yourself plenty of time to get from A to B.</p><p>Arrange to meet friends at the Meeting Point or a quiet place \u2013 it\u2019s extremely difficult to meet at one of the main stages.</p><p>Disorientation can easily set in \u2013 not only in children. The surroundings change dramatically after sunset, after more tents arrive and crowds gather.</p><p>Use the app\u2019s handy map to help you get around on site. The official Festival programme \u2013 which you will receive when you arrive \u2013 contains a map of the site as well as full listings of all that is taking place at the Festival. </p><h1>Information Points</h1><p>There are five Information Points offering help and advice about everything on-site from music to markets and so much more. </p><p>Main Info near the Meeting Point \u2013 which also has an induction loop for hearing aid users \u2013 is open 24/7 through to 4pm on Mon. Other Info Points are mostly open from 9am until midnight each day. </p><p>They can give you directions, site maps and masses of Festival information. They will take in lost property and mail for posting; offer advice and support, helping you contact the right people when needed, such as in the event of an emergency or if you have lost something or are feeling unwell. They handle complaints or compliments, recharge wheelchair batteries (bring your chargers), and give you loo rolls, period products, recycling bags, ear plugs or a squirt of sun cream \u2013 all for free!</p><p>As well as the Travel Enquiries Cabin outside PGA by the Festival bus station, Info Points can give you travel information and advice. </p><p>Info Points also sell Festival goodies such as mugs, cups, water bottles and extra copies of the official Festival Programme. And the Glastonbury Free Press \u2013 the Festival\u2019s own free newspaper, printed in the Theatre and Circus field \u2013 is also available from there. </p><p>Info Points can also issue Challenge 21 wristbands, with proof of identity and age. And can provide phone numbers for cancelling lost bank cards and a landline for emergency calls.</p><p>Free suncream,<b> </b>provided by Green People, is available from dispenser units across the site, including Info Points, Green Welfare and Campsite Steward hubs.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2024-05-28T10:22:31.333Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-1JQKVGbYhzEjosvunUsb9q/public"
+                },
+                "internalPageId": {
+                    "stringValue": "advice"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-11T11:39:20.825Z"
+                },
+                "title": {
+                    "stringValue": "Advice"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/info_pages/7xQlWz5Wn3yHRYOWW3PJnt",
+            "updateTime": "2025-06-11T11:39:20.836751Z"
+        }
+    ]
+}

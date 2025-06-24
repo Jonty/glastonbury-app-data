@@ -1,0 +1,428 @@
+{
+    "documents": [
+        {
+            "createTime": "2025-06-24T16:50:56.972095Z",
+            "fields": {
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Make sure you have the latest app update to access all the new features."
+                },
+                "id": {
+                    "stringValue": "1UvdzkRYLgEdPCPwCikUDh"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-24T16:50:56.965Z"
+                },
+                "title": {
+                    "stringValue": "Update your app before the Festival"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/1UvdzkRYLgEdPCPwCikUDh",
+            "updateTime": "2025-06-24T16:50:56.972095Z"
+        },
+        {
+            "createTime": "2024-06-28T16:42:31.609343Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.399Z"
+                },
+                "description": {
+                    "stringValue": "Join renowned Serbian artist Marina Abramovi\u0107 for a seven minute silence shortly, ahead of PJ Harvey's set"
+                },
+                "id": {
+                    "stringValue": "1bYQuUud9SIE7OkvhCEJCF"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.399Z"
+                },
+                "title": {
+                    "stringValue": "Pyramid peace moment at 5.55pm"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/1bYQuUud9SIE7OkvhCEJCF",
+            "updateTime": "2025-06-05T08:10:31.406031Z"
+        },
+        {
+            "createTime": "2024-06-30T11:45:10.954735Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.308Z"
+                },
+                "description": {
+                    "stringValue": "Please drop your LED wristband at Info points, campsite steward hubs, property lock-ups or wristband collection boxes around site, for reuse."
+                },
+                "id": {
+                    "stringValue": "20PfDHVpxSL8snIe0QLszc"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.308Z"
+                },
+                "link": {
+                    "stringValue": "3fNvcofq35LOE6ue6umBdv"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Return your Coldplay wristband"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/20PfDHVpxSL8snIe0QLszc",
+            "updateTime": "2025-06-05T08:10:31.324639Z"
+        },
+        {
+            "createTime": "2024-06-29T10:15:07.037087Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2024-06-29T10:54:46.379Z"
+                },
+                "description": {
+                    "stringValue": "Helen Fox from Bingham please could you contact the nearest steward as soon as possible. Thank you."
+                },
+                "id": {
+                    "stringValue": "2Z5I2ACj6CCoWGR9BYgf56"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-06-29T10:54:46.379Z"
+                },
+                "link": {
+                    "stringValue": "4WZ6E0biG1Ob5Gb8t6tjNL"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Helen Fox from Bingham"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/2Z5I2ACj6CCoWGR9BYgf56",
+            "updateTime": "2024-06-29T10:54:46.396383Z"
+        },
+        {
+            "createTime": "2025-06-16T10:21:08.648831Z",
+            "fields": {
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Update your app via the app store to view the interactive 2025 Festival map with search, filters, pinning and live location sharing."
+                },
+                "id": {
+                    "stringValue": "2qucBYQ6gTpo2QAW77pkFc"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-16T10:21:08.641Z"
+                },
+                "link": {
+                    "stringValue": "25ctyOnPzAEvTFH65V0Mwd"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "The Festival map is now available"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/2qucBYQ6gTpo2QAW77pkFc",
+            "updateTime": "2025-06-16T10:21:08.648831Z"
+        },
+        {
+            "createTime": "2024-06-26T16:48:42.874623Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.394Z"
+                },
+                "description": {
+                    "stringValue": "Tonight's drone show will begin at 10.30pm, followed by fireworks immediately afterwards. Get the best views from the Pyramid field."
+                },
+                "id": {
+                    "stringValue": "2xOuvWfGpuuPmGVoChhvHH"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.394Z"
+                },
+                "link": {
+                    "stringValue": "3UFp8bl8RhmWSClgWIvr8R"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Drone show + fireworks tonight "
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/2xOuvWfGpuuPmGVoChhvHH",
+            "updateTime": "2025-06-05T08:10:31.411231Z"
+        },
+        {
+            "createTime": "2024-05-01T22:21:09.770063Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2024-05-28T10:20:17.073Z"
+                },
+                "description": {
+                    "stringValue": "This is the first notification"
+                },
+                "id": {
+                    "stringValue": "3ZaEyteJoHk7TJ5eMGjwyA"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-05-28T10:20:17.073Z"
+                },
+                "title": {
+                    "stringValue": "First notification"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/3ZaEyteJoHk7TJ5eMGjwyA",
+            "updateTime": "2024-05-28T10:20:17.097711Z"
+        },
+        {
+            "createTime": "2025-06-23T18:30:25.995631Z",
+            "fields": {
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Here are some handy tips on getting the most out of watching performances at Glastonbury 2025"
+                },
+                "id": {
+                    "stringValue": "3k7sdOciLXlTDbFhcybfS5"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-23T18:30:25.989Z"
+                },
+                "link": {
+                    "stringValue": "2i7a0ztKLyGKXJel3sjQR"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Tips for watching performances"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/3k7sdOciLXlTDbFhcybfS5",
+            "updateTime": "2025-06-23T18:30:25.995631Z"
+        },
+        {
+            "createTime": "2024-06-26T08:59:42.744607Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.306Z"
+                },
+                "description": {
+                    "stringValue": "Click for helpful tips if you\u2019re queuing in the heat"
+                },
+                "id": {
+                    "stringValue": "4PCEI8iZ7YigQcmhgOhcJk"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.306Z"
+                },
+                "link": {
+                    "stringValue": "2jnLszqNx14KToxrP1ktoy"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Glastonbury heat advice"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/4PCEI8iZ7YigQcmhgOhcJk",
+            "updateTime": "2025-06-05T08:10:31.324495Z"
+        },
+        {
+            "createTime": "2024-05-28T10:50:31.587615Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2024-06-05T06:59:43.282Z"
+                },
+                "description": {
+                    "stringValue": "Don't panic! Take a look at our Lost Property information and guidance for what to do if you misplace anything whilst at the festival"
+                },
+                "id": {
+                    "stringValue": "4YFOEHe1l2TlmMKUS2sspO"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-06-05T06:59:43.282Z"
+                },
+                "link": {
+                    "stringValue": "2W9CyTwXd7qtQL0XwzeZic"
+                },
+                "linkType": {
+                    "stringValue": "infoPage"
+                },
+                "title": {
+                    "stringValue": "Missing Something? \ud83d\ude31"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/4YFOEHe1l2TlmMKUS2sspO",
+            "updateTime": "2024-06-05T06:59:43.359471Z"
+        },
+        {
+            "createTime": "2024-06-27T15:08:49.024271Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.486Z"
+                },
+                "description": {
+                    "stringValue": "Michael Eavis and his band will be performing a set on the Park Stage today at 4:30pm."
+                },
+                "id": {
+                    "stringValue": "5AUAIKdgZfLvhVbnzmSuRY"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.486Z"
+                },
+                "title": {
+                    "stringValue": "Michael Eavis 4:30pm performance on the Park Stage"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/5AUAIKdgZfLvhVbnzmSuRY",
+            "updateTime": "2025-06-05T08:10:31.492719Z"
+        },
+        {
+            "createTime": "2024-06-30T14:00:02.132815Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.220Z"
+                },
+                "description": {
+                    "stringValue": "When you head home, please take all your belongings and tidy your campsite! Thank you."
+                },
+                "id": {
+                    "stringValue": "5PmRsIZIoAy3AEDsNJBX0i"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.220Z"
+                },
+                "link": {
+                    "stringValue": "6XzjOuQdVtQLWsFQjwg5vE"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Please leave no trace!"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/5PmRsIZIoAy3AEDsNJBX0i",
+            "updateTime": "2025-06-05T08:10:31.237823Z"
+        },
+        {
+            "createTime": "2024-06-29T12:07:35.534511Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.241Z"
+                },
+                "description": {
+                    "stringValue": "Make sure you collect your Coldplay LED wristband today - click for info"
+                },
+                "id": {
+                    "stringValue": "5cussLnz5Ve0u30RazuWxD"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.241Z"
+                },
+                "link": {
+                    "stringValue": "51TdC6a4yT5p8aZdqNvw8M"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Get a Coldplay LED wristband"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/5cussLnz5Ve0u30RazuWxD",
+            "updateTime": "2025-06-05T08:10:31.259263Z"
+        },
+        {
+            "createTime": "2024-06-04T17:34:53.978975Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2024-06-05T06:59:43.276Z"
+                },
+                "description": {
+                    "stringValue": "Hey Have a look at our Accessibility page."
+                },
+                "id": {
+                    "stringValue": "6vgzUKkZKCmLJ8TFSCC1tf"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-06-05T06:59:43.276Z"
+                },
+                "link": {
+                    "stringValue": "4ShGRNfEHHqDnmpBnuptFz"
+                },
+                "linkType": {
+                    "stringValue": "infoPage"
+                },
+                "title": {
+                    "stringValue": "Test For 4th June"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/6vgzUKkZKCmLJ8TFSCC1tf",
+            "updateTime": "2024-06-05T06:59:43.360447Z"
+        },
+        {
+            "createTime": "2024-05-28T10:49:51.138127Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2024-05-31T13:10:42.168Z"
+                },
+                "description": {
+                    "stringValue": "Need a hand sorting your travel plans? Take a look at our handy guide for the best journey-planning tips!"
+                },
+                "id": {
+                    "stringValue": "7b34JtaTi6HL6oACnlKsok"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2024-05-31T13:10:42.168Z"
+                },
+                "link": {
+                    "stringValue": "4fRMwn6fRAnWviZ2NHIJmE"
+                },
+                "linkType": {
+                    "stringValue": "infoPage"
+                },
+                "title": {
+                    "stringValue": "Plan Your Journey Now! \ud83d\udccd"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/7b34JtaTi6HL6oACnlKsok",
+            "updateTime": "2024-05-31T13:10:42.191503Z"
+        },
+        {
+            "createTime": "2024-06-30T16:30:08.551055Z",
+            "fields": {
+                "deletedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.258Z"
+                },
+                "description": {
+                    "stringValue": "Tap here for some tips on leaving the site to head home"
+                },
+                "id": {
+                    "stringValue": "Tk58fO1RT36mJG7NGCHC3"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-05T08:10:31.258Z"
+                },
+                "link": {
+                    "stringValue": "Uzi03bAOHmqYekuyDSYmj"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Tips for drivers"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/Tk58fO1RT36mJG7NGCHC3",
+            "updateTime": "2025-06-05T08:10:31.275807Z"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.586293,
+                    51.151223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "busy_description": null,
+                "busy_title": null,
+                "description": "Vodafone connect and charge station.",
+                "display_on_map": true,
+                "is_busy": false,
+                "is_in_market": false,
+                "name": "Vodafone Connect and Charge Station",
+                "tags": []
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
