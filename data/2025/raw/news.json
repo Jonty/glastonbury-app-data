@@ -1441,10 +1441,10 @@
                     "timestampValue": "2025-06-24T22:41:00.359Z"
                 },
                 "imageUrl": {
-                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6Tq34BSqGmlfM8Ce101Bvl/public"
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6Ui7YA9q61tqzgbsfdyQ9z/public"
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-24T22:41:02.838Z"
+                    "timestampValue": "2025-06-25T10:32:44.322Z"
                 },
                 "status": {
                     "nullValue": null
@@ -1454,7 +1454,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/4XCRCKBREJb2nE3XEGvQmu",
-            "updateTime": "2025-06-24T22:41:02.848007Z"
+            "updateTime": "2025-06-25T10:32:44.334314Z"
         },
         {
             "createTime": "2025-06-19T11:31:36.834959Z",
