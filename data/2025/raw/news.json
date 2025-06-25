@@ -533,6 +533,34 @@
             "updateTime": "2025-06-16T10:20:56.939327Z"
         },
         {
+            "createTime": "2025-06-25T08:02:18.955829Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Good morning and welcome to the first day of Glastonbury 2025! </p><p>Wednesday is very much the day for getting through the gates, setting up camp and settling in. </p><p>With most of the stages not yet open, lots of people will be out on site having a wander. As always, if you do come across a busier crowd and you\u2019d prefer some space, your best bet is to turn around and head for somewhere a bit quieter (the areas in front of the main outdoor stages -\u2013 Pyramid, Other, West Holts and The Park \u2013 will have plenty of open green space today and tomorrow). </p><p>Tonight, see the two Opening Ceremonies in the Pyramid arena and the Green Fields. Both ceremonies begin at 10pm and are followed by fireworks viewable from both areas at 10.45pm. Both are likely to be popular \u2013 but if you\u2019d prefer a bit more space, then head for the Pyramid show, The Dreamweaver\u2019s Journey, which promises to be a breathtaking theatre &amp; circus performance. </p><p>And if you are planning to make it to The Dreamweaver\u2019s Journey, check out their call to action below! </p><p><b>CALLING ALL VOICES \u2013 We Need YOU! </b></p><p>Be part of something unforgettable. As part of \u2018The Dreamweaver\u2019s Journey\u2019, the spectacular opening ceremony of the 2025 Festival, we are creating a visceral, immersive acoustic musical soundscape and we need your voice.</p><p>This is your chance to participate in a living, breathing chorus of sound. Join us and help spread the joy. Together, we can spark energy, connection and celebration in a way only Glastonbury can.</p><p>You&#39;re not just watching \u2013 you&#39;re part of the performance! As our Dreamweaver digital cyclist appears on the big screens, tune in and hum along. Pick any note and hold it as they cruise the road. Uphill? Take your pitch higher. Downhill? Glide your pitch lower. Need to breathe? Go for it \u2013 this is a marathon, not a sprint.</p><p>Watch closely: If the Dreamweaver cyclist gets bigger, raise your voice! If they shrink in the distance, soften your sound. And don\u2019t worry about matching the person next to you \u2013 the more variety, the better! We want a beautiful chaos of sound that moves with the action.</p><p>At key points, join in with iconic hooks you know and love. Just follow the cues from our Dreamweaver digital cyclist on the big screens, they\u2019ll guide you when to jump in and when to stop.</p><p>The energy will be electric when we all hit those moments together. We expect you to let go, lean in, and let your voice ride the road.</p><p>You\u2019re not just an audience, you\u2019re the soundtrack and this isn\u2019t just a performance, it\u2019s an experience: a moment of collective creativity and power. Let\u2019s make something beautiful\u2026 together. Come sing. Come feel. Come be part of the sound.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-25T08:02:02.854Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3BnaWJ8qE7V3Rg3hgSWF5A/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-25T08:02:18.936Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Wednesday crowds update"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/2AW9quYseyzGhDCwRo5nlI",
+            "updateTime": "2025-06-25T08:02:18.955829Z"
+        },
+        {
             "createTime": "2025-06-23T12:00:04.825695Z",
             "fields": {
                 "body": {
