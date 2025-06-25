@@ -1630,7 +1630,7 @@
                     "nullValue": null
                 },
                 "description": {
-                    "stringValue": "Music venue in the Green Futures Field"
+                    "stringValue": "Music venue in the Green Futures Field."
                 },
                 "imageUrl": {
                     "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/20f9cccc-a2ce-4a9e-7f55-29a078dc9600/public"
@@ -1639,7 +1639,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-22T16:39:13.078Z"
+                    "timestampValue": "2025-06-25T19:36:33.928Z"
                 },
                 "name": {
                     "stringValue": "LUNCHED OUT LIZARDS"
@@ -1661,7 +1661,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/stages/recJf0fmgwY3PtEwE",
-            "updateTime": "2025-06-22T16:39:13.089791Z"
+            "updateTime": "2025-06-25T19:36:33.942076Z"
         },
         {
             "createTime": "2025-05-19T08:17:58.188719Z",
@@ -2362,7 +2362,7 @@
                     "nullValue": null
                 },
                 "description": {
-                    "stringValue": "Music venue in the Green Futures Field"
+                    "stringValue": "Music venue in the Green Futures Field."
                 },
                 "imageUrl": {
                     "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/36d4170a-1900-4070-eae2-496b19c3e300/public"
@@ -2371,7 +2371,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-24T07:56:25.604Z"
+                    "timestampValue": "2025-06-25T19:36:33.928Z"
                 },
                 "name": {
                     "stringValue": "TOAD HALL"
@@ -2393,7 +2393,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/stages/recRJk65O7Gl8mw7E",
-            "updateTime": "2025-06-24T07:56:25.612383Z"
+            "updateTime": "2025-06-25T19:36:33.942076Z"
         },
         {
             "createTime": "2025-05-19T08:17:58.188719Z",
@@ -2656,7 +2656,7 @@
                     "nullValue": null
                 },
                 "description": {
-                    "stringValue": "Music venue in the Green Futures Field"
+                    "stringValue": "Music venue in the Green Futures Field."
                 },
                 "imageUrl": {
                     "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/20aabdd8-8f20-4e1c-7fd6-f6e425d83500/public"
@@ -2665,7 +2665,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-23T08:02:04.686Z"
+                    "timestampValue": "2025-06-25T19:36:33.928Z"
                 },
                 "name": {
                     "stringValue": "MANDALA STAGE"
@@ -2687,7 +2687,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/stages/recTmYCkLSTWEDF6x",
-            "updateTime": "2025-06-23T08:02:04.701567Z"
+            "updateTime": "2025-06-25T19:36:33.942076Z"
         },
         {
             "createTime": "2025-05-19T08:17:58.188719Z",
