@@ -40398,10 +40398,10 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-26T09:19:18.612Z"
                 },
                 "name": {
-                    "stringValue": "Hitchen Hill"
+                    "stringValue": "Hitchin Hill"
                 },
                 "point": {
                     "geoPointValue": {
@@ -40417,7 +40417,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recbWUHs5anVLprfl",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-26T09:19:18.622463Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",

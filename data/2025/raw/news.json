@@ -897,6 +897,34 @@
             "updateTime": "2025-06-05T08:03:29.659631Z"
         },
         {
+            "createTime": "2025-06-26T09:20:13.299213Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Good morning and welcome to the second day of Glastonbury 2025! We hope those of you who arrived yesterday had a great day and that those still to arrive have smooth travels. </p><p>With some venues open tonight, we expect to see a few areas which are busy. As always, if you do come across a busier crowd and you\u2019d prefer some space, your best bet is to turn around and head for somewhere a bit quieter (the areas in front of the main outdoor stages \u2013 Pyramid, Other, West Holts and The Park \u2013 will have plenty of open green space today). You can always have a sit down and read the digital edition of today\u2019s <a href=\"https://www.glastonburyfestivals.co.uk/news/download-the-2025-glastonbury-free-press/\">Glastonbury Free Press newspaper</a>. </p><p>The one way system in the South East Corner is likely to come into play this evening, and Silver Hayes will be busy. We expect that there will be one in, one out queues on some of our tented venues, and on occasion it may be necessary to divert you around some areas when they are at capacity. Please listen to stewards and be patient with them. </p><p>The acts below are looking particularly popular this evening, and are likely to be busy:</p><p><b>Levels</b></p><ul><li><p>Confidence Man b2b Job Jobse at 9pm </p></li><li><p>Palms Trax at 7.30pm</p></li></ul><p><b>Glade</b></p><ul><li><p>Joy Orbison at Glade at 11pm</p></li><li><p>Ross From Friends at 8.30pm</p></li></ul><p><b>The Temple </b></p><ul><li><p>Wilkinson at 1am</p></li></ul><p></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-26T09:20:02.266Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3BnaWJ8qE7V3Rg3hgSWF5A/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-26T09:22:35.538Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Thursday crowds update"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/3DdJXtJr2uUmVb3R815B8f",
+            "updateTime": "2025-06-26T09:22:35.552224Z"
+        },
+        {
             "createTime": "2025-06-16T08:47:20.353007Z",
             "fields": {
                 "body": {
