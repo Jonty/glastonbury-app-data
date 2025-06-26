@@ -1233,6 +1233,34 @@
             "updateTime": "2025-06-05T08:02:46.948319Z"
         },
         {
+            "createTime": "2025-06-26T19:30:22.240646Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Some photos from the second day of Glastonbury Festival 2025, <a href=\"https://www.glastonburyfestivals.co.uk/news/thursday-in-pictures-10/\">click here for more on the Glastonbury website.</a></p><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6DUBfE1xk6p081QhrcEJGr/public\" alt=\"1\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3ZFTmeKf7gHGGmScouuF6j/public\" alt=\"2\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4ASM4KL7r1sLwS5ek3PQwg/public\" alt=\"3\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-60affHJPQsWK1GFGiu90Zw/public\" alt=\"4\"><p></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-26T19:30:02.618Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4aHyjQ2y5uS8fqohr7uTE5/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-26T19:30:22.225Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Thursday in pictures"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/4A4A62CYw20c3c0kwkhRwx",
+            "updateTime": "2025-06-26T19:30:22.240646Z"
+        },
+        {
             "createTime": "2025-06-05T08:00:03.872255Z",
             "fields": {
                 "body": {
@@ -2547,6 +2575,34 @@
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/70DqUJoKdFgWE5AFvjrv7e",
             "updateTime": "2025-06-04T14:23:52.072431Z"
+        },
+        {
+            "createTime": "2025-06-26T19:04:46.883852Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>The gates are open! Check out the photos below from the first day of this year&#39;s Festival, and <a href=\"https://www.glastonburyfestivals.co.uk/news/wednesday-in-pictures-10/\">click here for more on the Glastonbury website</a>.</p><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-1rfmBpQBGK9RnrWMnIk5SB/public\" alt=\"4\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-61WZPliqgjihiEZpiaYp7j/public\" alt=\"1\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-25eyQ7tRynlxoxRpQBi6AX/public\" alt=\"2\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4wyTwkjSaCrXHsFAEgeM6K/public\" alt=\"3\"><p></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-26T19:04:43.584Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-01FIfXCwimTOzJQ5pUPqT0/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-26T19:04:46.868Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Wednesday in pictures"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/76xR1LP6txraababAXnwrq",
+            "updateTime": "2025-06-26T19:04:46.883852Z"
         },
         {
             "createTime": "2025-06-16T08:55:03.412143Z",
