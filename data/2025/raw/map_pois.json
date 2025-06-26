@@ -4087,6 +4087,67 @@
             "updateTime": "2025-06-16T17:56:18.457423Z"
         },
         {
+            "createTime": "2025-06-26T11:49:44.599743Z",
+            "fields": {
+                "busyDescription": {
+                    "nullValue": null
+                },
+                "busyOffsetX": {
+                    "nullValue": null
+                },
+                "busyOffsetY": {
+                    "nullValue": null
+                },
+                "busyRadius": {
+                    "nullValue": null
+                },
+                "busyTitle": {
+                    "nullValue": null
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "nullValue": null
+                },
+                "displayOnMap": {
+                    "booleanValue": true
+                },
+                "hasOffer": {
+                    "booleanValue": false
+                },
+                "isBusy": {
+                    "booleanValue": false
+                },
+                "isInMarket": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-26T11:49:45.052Z"
+                },
+                "name": {
+                    "stringValue": "Summer House"
+                },
+                "point": {
+                    "geoPointValue": {
+                        "latitude": 51.151951365819286,
+                        "longitude": -2.58019932203777
+                    }
+                },
+                "stageId": {
+                    "stringValue": "recXXd37jclGzRR90"
+                },
+                "tags": {
+                    "nullValue": null
+                },
+                "type": {
+                    "stringValue": "STAGE"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/rec489TRfTthR98Hk",
+            "updateTime": "2025-06-26T11:49:45.066502Z"
+        },
+        {
             "createTime": "2025-06-12T20:38:30.644127Z",
             "fields": {
                 "busyDescription": {
@@ -10020,15 +10081,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-26T11:49:45.052Z"
                 },
                 "name": {
                     "stringValue": "Water Source"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.158632,
-                        "longitude": -2.588438
+                        "latitude": 51.158793624374674,
+                        "longitude": -2.5883522685806195
                     }
                 },
                 "tags": {
@@ -10039,7 +10100,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/rec9uI1WQxIudJtVv",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-26T11:49:45.066502Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -33522,15 +33583,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-26T11:49:45.052Z"
                 },
                 "name": {
                     "stringValue": "The Gateway"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.152688,
-                        "longitude": -2.578814
+                        "latitude": 51.15265013844913,
+                        "longitude": -2.5788409341252274
                     }
                 },
                 "stageId": {
@@ -33544,7 +33605,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recVaQpry033OYSf8",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-26T11:49:45.066502Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -38066,15 +38127,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-26T11:49:45.052Z"
                 },
                 "name": {
                     "stringValue": "Tolpuddle Fire"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.158502,
-                        "longitude": -2.589462
+                        "latitude": 51.158469869361724,
+                        "longitude": -2.589528304053288
                     }
                 },
                 "stageId": {
@@ -38088,7 +38149,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recZuMR2zIQdTdRFs",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-26T11:49:45.066502Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -53608,6 +53669,64 @@
             "updateTime": "2025-06-12T20:38:32.655983Z"
         },
         {
+            "createTime": "2025-06-26T11:49:44.599743Z",
+            "fields": {
+                "busyDescription": {
+                    "nullValue": null
+                },
+                "busyOffsetX": {
+                    "nullValue": null
+                },
+                "busyOffsetY": {
+                    "nullValue": null
+                },
+                "busyRadius": {
+                    "nullValue": null
+                },
+                "busyTitle": {
+                    "nullValue": null
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "nullValue": null
+                },
+                "displayOnMap": {
+                    "booleanValue": true
+                },
+                "hasOffer": {
+                    "booleanValue": false
+                },
+                "isBusy": {
+                    "booleanValue": false
+                },
+                "isInMarket": {
+                    "booleanValue": false
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-26T11:49:45.052Z"
+                },
+                "name": {
+                    "stringValue": "Public Toilet"
+                },
+                "point": {
+                    "geoPointValue": {
+                        "latitude": 51.16118313017941,
+                        "longitude": -2.589306573931446
+                    }
+                },
+                "tags": {
+                    "nullValue": null
+                },
+                "type": {
+                    "stringValue": "TOILET"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recmXptgGjMQ8jbHm",
+            "updateTime": "2025-06-26T11:49:45.066502Z"
+        },
+        {
             "createTime": "2025-06-12T20:38:32.655983Z",
             "fields": {
                 "busyDescription": {
@@ -62102,15 +62221,15 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-26T11:49:45.052Z"
                 },
                 "name": {
                     "stringValue": "Rimski's Yard"
                 },
                 "point": {
                     "geoPointValue": {
-                        "latitude": 51.15224,
-                        "longitude": -2.578006
+                        "latitude": 51.152227890914304,
+                        "longitude": -2.5777489936250157
                     }
                 },
                 "stageId": {
@@ -62124,7 +62243,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recuJKwebnbNS7QoH",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-26T11:49:45.066502Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",

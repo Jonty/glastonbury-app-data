@@ -1284,6 +1284,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -2.589306573931446,
+                    51.16118313017941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Public Toilet",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -2.594406,
                     51.150402
                 ]

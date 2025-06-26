@@ -84,6 +84,26 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Summer House",
+                "description": null,
+                "tags": [],
+                "is_in_market": false,
+                "is_busy": false,
+                "busy_title": null,
+                "busy_description": null,
+                "display_on_map": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.58019932203777,
+                    51.151951365819286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "10 ACES",
                 "description": null,
                 "tags": [],
@@ -876,8 +896,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.578814,
-                    51.152688
+                    -2.5788409341252274,
+                    51.15265013844913
                 ]
             }
         },
@@ -1076,8 +1096,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.589462,
-                    51.158502
+                    -2.589528304053288,
+                    51.158469869361724
                 ]
             }
         },
@@ -1818,8 +1838,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.578006,
-                    51.15224
+                    -2.5777489936250157,
+                    51.152227890914304
                 ]
             }
         },
