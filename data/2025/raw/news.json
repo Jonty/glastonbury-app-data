@@ -1905,6 +1905,34 @@
             "updateTime": "2025-06-05T08:07:48.505791Z"
         },
         {
+            "createTime": "2025-06-26T10:31:10.331529Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p><b>Lemfreck</b> \u2013 BBC Introducing, 16.00</p><p>This rapper and singer, winner of the Welsh music prize, is turning heads with his versatile vocalisations: one minute offering a croaking, conversational flow, the next soaring Sampha-like soul songs.</p><p><b>HiTech</b> \u2013 Lonely Hearts Club, 18.00</p><p>This US outfit will have you booty-shaking through their witty ghettotech tracks.</p><p><b>Major League DJz</b> \u2013 Lonely Hearts Club, 21.00</p><p>One of the biggest names pushing South Africa\u2019s calm yet sensual amapiano sound.</p><p><b>Confidence Man b2b Job Jobse</b> \u2013 Levels, 21.00</p><p>Chirpily cheery house and other crowdpleasers from the Australian pop outfit and the highly adaptable Dutch DJ.</p><p><b>Baalti</b> \u2013 Babylon Uprising, 2200 (also Azaadi, Friday, 02.00)</p><p>These New Yorkers with Bengali heritage play bass-driven, clattering club bangers blended from numerous global reference points.</p><p><b>Calibre</b> \u2013 Glade Dome, 2130 (also Levels, Friday, 01.45)</p><p>One of the great figureheads of drum\u2019n\u2019bass, capping a stunning evening for the style with the likes of LTJ Bukem and Goldie, plus UK garage stars.</p><p><b>Avalon Emerson (9000 Dreams)</b> \u2013 San Remo, 01.00</p><p>As adept at ambient new-wave pop as she is pounding techno, Avalon Emerson is one of the best musicians working anywhere today \u2013 here she heads up her likeminded party pals on their the 9000 Dreams tour.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-26T10:30:59.964Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-5fHFtsYwT5yQ7FEZiMxssS/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-26T10:31:10.314Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "The Guardian's guide to Thursday "
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/5atGklRXiBiTbFeHh31C6o",
+            "updateTime": "2025-06-26T10:31:10.331529Z"
+        },
+        {
             "createTime": "2025-06-05T08:08:30.936511Z",
             "fields": {
                 "body": {
