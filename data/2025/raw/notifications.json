@@ -73,6 +73,34 @@
             "updateTime": "2025-06-05T08:10:31.324639Z"
         },
         {
+            "createTime": "2025-06-27T08:33:24.373145Z",
+            "fields": {
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Click here for info on where you might find busier crowds today"
+                },
+                "id": {
+                    "stringValue": "2Cw5uWAsjeBuwliJaazaAW"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-27T08:33:24.357Z"
+                },
+                "link": {
+                    "stringValue": "47MlcQZedCX7fpqZgKzPqh"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Friday crowds update"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/2Cw5uWAsjeBuwliJaazaAW",
+            "updateTime": "2025-06-27T08:33:24.373145Z"
+        },
+        {
             "createTime": "2024-06-29T10:15:07.037087Z",
             "fields": {
                 "deletedAt": {

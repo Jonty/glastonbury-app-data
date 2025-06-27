@@ -1205,6 +1205,34 @@
             "updateTime": "2025-06-04T14:14:26.169359Z"
         },
         {
+            "createTime": "2025-06-27T08:30:28.564594Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Good morning and welcome to day three of Glastonbury 2025 \u2013 the day when the big stages are go!</p><p>The acts below are looking particularly popular today, and are likely to be busy:</p><p><b>Woodsies</b></p><p>TBA at 11.30am \nLola Young at 4.30pm\nBlossoms at 6pm \nPink Pantheress at 7.30pm </p><p><b>Lonely Hearts</b></p><p>Rudimental at 8pm \nFatboy Slim at 10.30pm </p><p><b>West Holts </b></p><p>Maribou State at 10.15pm </p><p><b>Avalon</b></p><p>Fratellis at 11.05pm</p><p><b>Cabaret</b></p><p>Nish Kumar and James Acaster at 12.10am</p><p><b>Shangri-La</b></p><p>Example 2.45am</p><p>There will be large crowds at the Pyramid, Other, West Holts and Park Stages too \u2013 with plenty of space to accommodate them. </p><p>This evening, Arcadia will be busy. The one way system in the South East Corner is also likely to come into play. </p><p>We expect that there will be one in, one out queues on some of our tented venues, and on occasion it may be necessary to divert you around some areas when they are at capacity. Please listen to stewards and be patient with them. </p><p>When leaving our bigger arenas and venues, please remember there are lots of you. If you take your time the crowds will thin out and you\u2019ll get out more easily. And when heading to stages remember, we have a lot of alternative routes to places, the shortest route will often not be the quickest. </p><p>As always, if you do come across a busier crowd and you\u2019d prefer some space, your best bet is to turn around and head for somewhere a bit quieter (Dragon\u2019s Tail, the hill above The Park or the space above the Tipi field and the Green Fields, for example). </p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-27T08:30:13.994Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3BnaWJ8qE7V3Rg3hgSWF5A/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-27T08:30:28.548Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Friday crowds update"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/47MlcQZedCX7fpqZgKzPqh",
+            "updateTime": "2025-06-27T08:30:28.564594Z"
+        },
+        {
             "createTime": "2024-06-23T19:00:17.693423Z",
             "fields": {
                 "body": {
