@@ -13826,13 +13826,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "-120"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "-10"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "175"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -13856,7 +13856,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "PYRAMID STAGE"
@@ -13878,7 +13878,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recDpUD20y8QLTr2a",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -15710,7 +15710,7 @@
             "createTime": "2025-06-12T20:38:30.644127Z",
             "fields": {
                 "busyDescription": {
-                    "stringValue": "Please head to another area of the site. Thank you."
+                    "nullValue": null
                 },
                 "busyOffsetX": {
                     "integerValue": "-35"
@@ -15722,7 +15722,7 @@
                     "integerValue": "50"
                 },
                 "busyTitle": {
-                    "stringValue": "11:30: No access to Woodsies"
+                    "nullValue": null
                 },
                 "deletedAt": {
                     "nullValue": null
@@ -15743,7 +15743,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-27T11:47:21.167Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "WOODSIES"
@@ -15765,7 +15765,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recFPgG7X8vLLJQ1E",
-            "updateTime": "2025-06-27T11:47:21.186016Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -17287,13 +17287,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "35"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "0"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "25"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -17317,7 +17317,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "Lonely Hearts Club"
@@ -17339,7 +17339,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recGiRIt2DaM9JWn9",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -20648,13 +20648,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "-30"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "-5"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "75"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -20678,7 +20678,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "SILVER HAYES"
@@ -20697,7 +20697,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recKOz38Vv78bNWMb",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -21980,7 +21980,7 @@
                     "nullValue": null
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "30"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -22004,7 +22004,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:29.555Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "SE Corner Access Point"
@@ -22023,7 +22023,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recLh6MBEArA7LQGw",
-            "updateTime": "2025-06-12T20:38:30.644127Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -35398,13 +35398,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "20"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "30"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "35"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -35428,7 +35428,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "AVALON"
@@ -35450,7 +35450,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recXYaKJOXvW0gDCX",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -37591,13 +37591,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "11"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "34"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "30"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -37621,7 +37621,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "Glade Stage"
@@ -37643,7 +37643,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recZQlkgZ4S3ZhJ0W",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -39850,13 +39850,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "20"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "20"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "20"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -39880,7 +39880,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-24T17:21:52.246Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "Shangri-La Stage"
@@ -39902,7 +39902,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recbHQEQXkgOrFgoG",
-            "updateTime": "2025-06-24T17:21:52.279611Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -40612,13 +40612,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "-50"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "15"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "40"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -40642,7 +40642,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "Park Stage"
@@ -40664,7 +40664,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recbq5naAoEOJQMl1",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -49046,16 +49046,16 @@
             "createTime": "2025-06-12T20:38:32.655983Z",
             "fields": {
                 "busyDescription": {
-                    "stringValue": "This area is experiencing a higher volume of footfall than anticipated. Please avoid the area and make alternative plans if necessary."
+                    "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "60"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "1"
                 },
                 "busyRadius": {
-                    "integerValue": "100"
+                    "integerValue": "60"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -49079,7 +49079,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "WEST HOLTS"
@@ -49101,7 +49101,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recieonXUNp6XuNlJ",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -51714,13 +51714,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "115"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "0"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "160"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -51744,7 +51744,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "THE OTHER STAGE"
@@ -51766,7 +51766,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recl79GI8roNPmxjF",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -52333,13 +52333,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "10"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "25"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "30"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -52363,7 +52363,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "ACOUSTIC"
@@ -52385,7 +52385,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/reclaYoMTSp7tOAUG",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -62871,7 +62871,7 @@
                     "nullValue": null
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "10"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -62895,7 +62895,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:32.908Z"
+                    "timestampValue": "2025-06-27T14:06:32.621Z"
                 },
                 "name": {
                     "stringValue": "CABARET"
@@ -62917,7 +62917,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recuqFoVjSj1yZvFN",
-            "updateTime": "2025-06-12T20:38:33.085871Z"
+            "updateTime": "2025-06-27T14:06:32.646590Z"
         },
         {
             "createTime": "2025-06-12T20:38:33.085871Z",
