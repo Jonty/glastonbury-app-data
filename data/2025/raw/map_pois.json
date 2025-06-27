@@ -15737,13 +15737,13 @@
                     "booleanValue": false
                 },
                 "isBusy": {
-                    "booleanValue": true
+                    "booleanValue": false
                 },
                 "isInMarket": {
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-27T10:44:40.319Z"
+                    "timestampValue": "2025-06-27T11:47:21.167Z"
                 },
                 "name": {
                     "stringValue": "WOODSIES"
@@ -15765,7 +15765,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recFPgG7X8vLLJQ1E",
-            "updateTime": "2025-06-27T10:44:40.337419Z"
+            "updateTime": "2025-06-27T11:47:21.186016Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",

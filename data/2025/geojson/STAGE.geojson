@@ -408,7 +408,7 @@
                 "description": null,
                 "tags": [],
                 "is_in_market": false,
-                "is_busy": true,
+                "is_busy": false,
                 "busy_title": null,
                 "busy_description": null,
                 "display_on_map": true
