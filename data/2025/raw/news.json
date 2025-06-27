@@ -2745,6 +2745,34 @@
             "updateTime": "2025-06-05T08:03:29.978623Z"
         },
         {
+            "createTime": "2025-06-27T09:10:46.524677Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p><b>Horsegirl</b> \u2013 Park stage, 11.30</p><p>This indie band\u2019s second album is among this year\u2019s very best, full of head-turning contradictions: naive yet world-weary, doleful yet brightly melodic.</p><p><b>Bimini</b> \u2013 Astrolabe theatre, 12.00</p><p>The perma-fabulous drag legend is in conversation with the Guardian\u2019s Zoe Williams.</p><p><b>Ca7riel and Paco Amoroso</b> \u2013 West Holts, 13.00 (also Shangri-La stage, 01.15)</p><p>These Argentine rappers may not be widely known in the UK but if their live set here is anything like their phenomenally popular Tiny Desk concert, they\u2019ll create one of those crowds that swells and swells \u2013 get there early.</p><p><b>Rumba de Bodas</b> \u2013 Avalon, 14.10</p><p>The Italian pop-Afrobeat troupe are the kind of group to get multiple generations out of their folding camping chairs.</p><p><b>Burning Spear</b> \u2013 Pyramid, 15.00</p><p>At 80, the reggae legend is still devoted to uplifting Black consciousness and some gentle skanking for his mid-afternoon Pyramid set will limber you up nicely for the evening ahead.</p><p><b>Bawo</b> \u2013 Lonely Hearts Club, 16.15</p><p>Funny and ruminative lyrics make him one of the UK\u2019s most underrated MCs.</p><p><b>Lola Young</b> \u2013 Woodsies, 16.30</p><p>Get down early to see Lola Young in her breakthrough year, showcasing global hit Messy and more.</p><p><b>Sasha Keable</b> \u2013 Lonely Hearts Club, 17.45</p><p>This UK R&amp;B singer is versatile and beautifully melismatic.</p><p><b>Alanis Morissette</b> \u2013 Pyramid stage, 18.15</p><p>Anthemic and ubiquitous in the 90s, this is the kind of artist the Pyramid crowd unites behind: songs such as You Oughta Know and Ironic will be big moments.</p><p><b>Orla Gartland</b> \u2013 Avalon, 18.35</p><p>Torrid ballads and irrepressible alt-pop from an Irish act going from cult favourite to mainstream star.\n\n<b>Alt Blk Era</b> \u2013 BBC Introducing, 19.30</p><p>Anyone unable to wait for the Prodigy\u2019s industrial-jungle onslaught can enjoy a similar vibe from this showboating duo.</p><p><b>Busta Rhymes</b> \u2013 Other stage, 20.30</p><p>A superhuman rap talent whose brain and embouchure continue to operate in a completely different gear.</p><p><b>Kettama b2b Interplanetary Criminal</b> \u2013 Glade, 20.45</p><p>Of the back-to-back sets, this has the potential for the most T-shirt-stripping, lizard-brained pandemonium of the weekend.</p><p><b>The 1975</b> \u2013 Pyramid stage, 22.15</p><p>There\u2019s no denying the pop heft of the band\u2019s now-considerable catalogue.</p><p><b>Skream and Benga ft Sgt Pokes</b> \u2013 Levels, 00.00</p><p>The reunited bass legends will hurl wobbling dubstep boulders your way, including excellent new single Good Things Come to Those Who Wait.</p><p><b>Cybotron</b> \u2013 Iicon, 01.00</p><p>One of the people from which today\u2019s entire dance culture flows, Juan Atkins, is doing two polar opposite sets: as Cybotron, he\u2019ll have you bodypopping like C-3PO, while an ambient set under his own name will have you curling up like a lamb.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-27T09:10:43.933Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-59iu64LNnXVzz3Frifiv93/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-27T09:10:46.508Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "The Guardian's guide to Friday"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/7oSBjF7oE0QkKyfTNQPGby",
+            "updateTime": "2025-06-27T09:10:46.524677Z"
+        },
+        {
             "createTime": "2025-06-05T08:00:03.957999Z",
             "fields": {
                 "body": {
