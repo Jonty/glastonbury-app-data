@@ -15710,7 +15710,7 @@
             "createTime": "2025-06-12T20:38:30.644127Z",
             "fields": {
                 "busyDescription": {
-                    "nullValue": null
+                    "stringValue": "Please head to another area of the site. Thank you."
                 },
                 "busyOffsetX": {
                     "integerValue": "-35"
@@ -15722,7 +15722,7 @@
                     "integerValue": "50"
                 },
                 "busyTitle": {
-                    "nullValue": null
+                    "stringValue": "NO ACCESS TO WOODSIES"
                 },
                 "deletedAt": {
                     "nullValue": null
@@ -15737,13 +15737,13 @@
                     "booleanValue": false
                 },
                 "isBusy": {
-                    "booleanValue": false
+                    "booleanValue": true
                 },
                 "isInMarket": {
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-27T14:06:32.621Z"
+                    "timestampValue": "2025-06-28T20:43:59.750Z"
                 },
                 "name": {
                     "stringValue": "WOODSIES"
@@ -15765,7 +15765,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recFPgG7X8vLLJQ1E",
-            "updateTime": "2025-06-27T14:06:32.646590Z"
+            "updateTime": "2025-06-28T20:43:59.763633Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
@@ -47061,13 +47061,13 @@
                     "nullValue": null
                 },
                 "busyOffsetX": {
-                    "nullValue": null
+                    "integerValue": "40"
                 },
                 "busyOffsetY": {
-                    "nullValue": null
+                    "integerValue": "-18"
                 },
                 "busyRadius": {
-                    "nullValue": null
+                    "integerValue": "30"
                 },
                 "busyTitle": {
                     "nullValue": null
@@ -47091,7 +47091,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-12T20:38:31.464Z"
+                    "timestampValue": "2025-06-28T20:43:59.750Z"
                 },
                 "name": {
                     "stringValue": "LEFTFIELD"
@@ -47113,7 +47113,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/rechCSLerfz5GIqvC",
-            "updateTime": "2025-06-12T20:38:32.655983Z"
+            "updateTime": "2025-06-28T20:43:59.763633Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -51744,7 +51744,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-27T14:06:32.621Z"
+                    "timestampValue": "2025-06-28T20:43:59.750Z"
                 },
                 "name": {
                     "stringValue": "THE OTHER STAGE"
@@ -51766,7 +51766,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recl79GI8roNPmxjF",
-            "updateTime": "2025-06-27T14:06:32.646590Z"
+            "updateTime": "2025-06-28T20:43:59.763633Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
@@ -62895,7 +62895,7 @@
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-27T14:06:32.621Z"
+                    "timestampValue": "2025-06-28T20:43:59.750Z"
                 },
                 "name": {
                     "stringValue": "CABARET"
@@ -62917,7 +62917,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recuqFoVjSj1yZvFN",
-            "updateTime": "2025-06-27T14:06:32.646590Z"
+            "updateTime": "2025-06-28T20:43:59.763633Z"
         },
         {
             "createTime": "2025-06-12T20:38:33.085871Z",
