@@ -128,17 +128,17 @@
                     "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3BnaWJ8qE7V3Rg3hgSWF5A/public"
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-27T14:13:57.154Z"
+                    "timestampValue": "2025-06-28T13:00:32.994Z"
                 },
                 "status": {
-                    "nullValue": null
+                    "stringValue": "PINNED"
                 },
                 "title": {
                     "stringValue": "Be safe in the heat"
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/18NDbs7sbKYJCRSci06v8O",
-            "updateTime": "2025-06-27T14:13:57.176759Z"
+            "updateTime": "2025-06-28T13:00:33.008775Z"
         },
         {
             "createTime": "2024-06-24T07:42:19.399007Z",
