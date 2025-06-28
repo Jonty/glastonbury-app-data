@@ -2941,6 +2941,34 @@
             "updateTime": "2025-06-05T08:12:41.199439Z"
         },
         {
+            "createTime": "2025-06-28T15:15:21.543596Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Deftones have been forced to cancel tonight&#39;s 8.30pm Other Stage performance due to illness in the band. </p><p>Skepta will kindly step-in, taking the stage at 9pm.</p><p>He says: \u2018Let\u2019s go!!! No crew, no production but am ready to shut Glastonbury down. Victory lap time. Pre-Big Smoke 2025!\u2019</p><p>Ezra Collective&#39;s set will now run from 7-8.15pm.</p><p>We wish Deftones a speedy recovery.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-28T15:15:10.653Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3ShJTR0IMyNvN9oj3tWKNl/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-28T15:17:40.910Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Deftones forced to cancel, Skepta steps in"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/HGCZztNVrd5eSaWJJc42d",
+            "updateTime": "2025-06-28T15:17:40.927639Z"
+        },
+        {
             "createTime": "2024-06-18T08:55:39.614783Z",
             "fields": {
                 "body": {

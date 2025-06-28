@@ -170,6 +170,34 @@
             "updateTime": "2024-06-29T10:54:46.396383Z"
         },
         {
+            "createTime": "2025-06-28T15:17:47.028045Z",
+            "fields": {
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Deftones have been forced to cancel tonight\u2019s Other Stage slot. Click for info."
+                },
+                "id": {
+                    "stringValue": "2h4zYfHZbF4BkD9TRhKO4F"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-28T15:17:47.015Z"
+                },
+                "link": {
+                    "stringValue": "HGCZztNVrd5eSaWJJc42d"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "Deftones cancel, Skepta replaces"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/2h4zYfHZbF4BkD9TRhKO4F",
+            "updateTime": "2025-06-28T15:17:47.028045Z"
+        },
+        {
             "createTime": "2025-06-16T10:21:08.648831Z",
             "fields": {
                 "deletedAt": {
