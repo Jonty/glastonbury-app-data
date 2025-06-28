@@ -49046,19 +49046,19 @@
             "createTime": "2025-06-12T20:38:32.655983Z",
             "fields": {
                 "busyDescription": {
-                    "nullValue": null
+                    "stringValue": "Please head to another area of the site - thank you"
                 },
                 "busyOffsetX": {
-                    "integerValue": "60"
+                    "integerValue": "65"
                 },
                 "busyOffsetY": {
-                    "integerValue": "1"
+                    "integerValue": "4"
                 },
                 "busyRadius": {
-                    "integerValue": "60"
+                    "integerValue": "85"
                 },
                 "busyTitle": {
-                    "nullValue": null
+                    "stringValue": "No access to West Holts"
                 },
                 "deletedAt": {
                     "nullValue": null
@@ -49073,13 +49073,13 @@
                     "booleanValue": false
                 },
                 "isBusy": {
-                    "booleanValue": false
+                    "booleanValue": true
                 },
                 "isInMarket": {
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-27T14:06:32.621Z"
+                    "timestampValue": "2025-06-28T14:21:46.408Z"
                 },
                 "name": {
                     "stringValue": "WEST HOLTS"
@@ -49101,7 +49101,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recieonXUNp6XuNlJ",
-            "updateTime": "2025-06-27T14:06:32.646590Z"
+            "updateTime": "2025-06-28T14:21:46.421432Z"
         },
         {
             "createTime": "2025-06-12T20:38:32.655983Z",
