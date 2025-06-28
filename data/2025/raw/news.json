@@ -701,6 +701,34 @@
             "updateTime": "2025-06-18T14:45:03.947119Z"
         },
         {
+            "createTime": "2025-06-28T09:23:35.315935Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Check out our photos from Glastonbury 2025, day three.  <a href=\"https://www.glastonburyfestivals.co.uk/news/friday-in-pictures-10/\">Click here for more on the Glastonbury website.</a></p><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-5mpBleqWyI5dXL5EUurEBA/public\" alt=\"BI2I8771-Copy-1024x696\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-175hTg2lbJmZN8bZoe972w/public\" alt=\"2025-ARCADIA-DRAGIN-Copy-1024x683\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-5WOFda9RhWxqlkNvD4FBFb/public\" alt=\"IMG 0782 Tom Widd-Copy-1024x683\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-YdAW72F0IRD4fbfImyCqU/public\" alt=\"2025-06-27-14-25-45-Glasto-TandC-2025-full-size-Copy-1024x904\"><p></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-28T09:23:33.214Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-1Miiwxebvm7E0RYDJYklwQ/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-28T09:23:35.295Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Friday in pictures"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/2V9bbmDxKLuYzcRqpMNiwL",
+            "updateTime": "2025-06-28T09:23:35.315935Z"
+        },
+        {
             "createTime": "2025-06-05T08:00:03.861487Z",
             "fields": {
                 "body": {
@@ -2967,6 +2995,34 @@
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/gCmWwg9uQetZRFG4z74vX",
             "updateTime": "2025-06-05T08:02:46.114687Z"
+        },
+        {
+            "createTime": "2025-06-28T10:02:33.483207Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p><b>Steven Frayne</b> \u2013 Astrolabe theatre, 12.00</p><p>The illusionist formerly known as Dynamo is in conversation with the Guardian\u2019s Zoe Williams.</p><p><b>Ichiko Aoba</b> \u2013 Park stage, 12.45</p><p>This Japanese artist\u2019s pretty yet profound ambient pop will be spellbinding.</p><p><b>Jade</b> \u2013 Woodsies, 15.15</p><p>The former Little Mixer brings outsized personality to her solo performances.</p><p><b>TV on the Radio</b> \u2013 Woodsies, 18.00</p><p>The reformed New York alt-rockers, fronted by the effortlessly cool Tunde Adebimpe, remain magnetic.</p><p><b>Raye</b> \u2013 Pyramid stage, 20.00</p><p>Her biggest show to date: she pairs old-Hollywood glamour with genre-surfing, propulsive pop and will put on a sumptuous show.</p><p><b>Rachel Chinouriri</b> \u2013 Avalon, 20.10</p><p>Her alt-pop stagecraft has been honed by a spell supporting Sabrina Carpenter, and her songwriting is engagingly candid.</p><p><b>Deftones</b> \u2013 Other stage, 20.30</p><p>Powered as ever by Chino Moreno\u2019s nape-tickling groans and nu-metal chatter, Deftones have rightly become lauded as true greats and this set could promise some cross-generational circle pits, helicoptering dreadlocks and airborne pints.</p><p><b>Neil Young and the Chrome Hearts</b> \u2013 Pyramid stage, 22.00</p><p>At 79, Young is as fired-up as a man a quarter of his age, and seems to steel-tip his laurels so he doesn\u2019t rest on them: after reuniting with Crazy Horse in 2024, he\u2019s swapped them out again for new backing band the Chrome Hearts (featuring 81-year-old legend Spooner Oldham on organ). Even if he doesn\u2019t play the hits, an obscure Neil Young set is still a thrill.</p><p><b>Charli xcx</b> \u2013 Other stage, 22.30</p><p>Her current power-walking, phlegm-licking, Brat-heavy live show is the work of a pop star operating at the highest level.</p><p><b>Doechii</b> \u2013West Holts, 22.45</p><p>The US rapper\u2019s preening brilliance, undercut with radical and self-lacerating honesty, makes for a series of miniature soap operas, dark thrillers and situation comedies. Her delivery, almost like dotting words on to the mic rather than speaking through it, is breathtaking.</p><p><b>Mozey</b> \u2013 Lonely Hearts Club, 01.45</p><p>Any Kneecap fans should check out this hot drum\u2019n\u2019bass producer \u2013 he did their latest single.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-28T10:02:24.416Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6cPUdRXb3lBVZbSR1MhI8i/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-28T10:02:33.468Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "The Guardian's guide to Saturday"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/uecGHl3deuBlhSZQJk12e",
+            "updateTime": "2025-06-28T10:02:33.483207Z"
         }
     ]
 }
