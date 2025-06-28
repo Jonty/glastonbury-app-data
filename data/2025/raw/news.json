@@ -2101,6 +2101,34 @@
             "updateTime": "2025-06-05T08:02:46.728751Z"
         },
         {
+            "createTime": "2025-06-28T10:04:46.631735Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Hello and welcome to Day 4 of Glastonbury 2025! We hope you\u2019re enjoying the Festival so far. It\u2019s likely to be another warm day - so please do check out our <a data-entry-id=\"18NDbs7sbKYJCRSci06v8O\" href=\"glastonbury://news?id=18NDbs7sbKYJCRSci06v8O\">heat advice</a>. And here\u2019s today\u2019s crowds update.</p><p>The South East Corner is welcoming you in for Saturday afternoon raving today, so we are expecting their venues there to be busier than usual for that time of day.</p><p>Kneecap will draw a large audience for their 4pm West Holts show. If you\u2019re not planning to see them, please plan alternative routes around that area. If you do plan to attend, listen to stewards, and please have some other entertainment options in mind in case the field reaches capacity and we need to close it as part of our crowd planning measures.</p><p>Later in the day Kate Nash looks set to draw a big crowd to Left Field at 9pm, so please arrive early if you\u2019re hoping to catch her set.</p><p>Scissor Sisters will be very busy at Woodsies at 10.30pm. It\u2019s likely we\u2019ll need to close the field once it reaches capacity as part of our crowd planning measures.</p><p>Charlie xcx will also be popular in our new enlarged Other Stage arena at 10.30pm. When entering we will have a number of routes in place to give you the best viewing experience possible. A slightly longer walk will give you more space.</p><p>There will be large crowds at the Pyramid and the Park Stages too \u2013 with plenty of space to accommodate them.</p><p>The late-night areas will also be very popular this evening, particularly Arcadia. We will be diverting crowds at times to help you find clear space to enjoy yourselves.</p><p>We expect that there will be one in, one out queues on some of our tented venues, and on occasion it may be necessary to divert you around some areas when they are at capacity. Please listen to stewards and be patient with them.</p><p>When leaving our bigger arenas and venues, please remember there are lots of you. If you take your time the crowds will thin out and you\u2019ll get out more easily. And when heading to stages remember, we have a lot of alternative routes to places, the shortest route will often not be the quickest.</p><p>As always, if you do come across a busier crowd and you\u2019d prefer some space, your best bet is to turn around and head for somewhere a bit quieter (Dragon\u2019s Tail, the hill above The Park or the space above the Tipi field and the Green Fields, for example).</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-28T10:04:45.148Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3BnaWJ8qE7V3Rg3hgSWF5A/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-28T10:17:17.368Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Saturday crowds update"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/5o4YXaIvdS5r8mIB60H6gi",
+            "updateTime": "2025-06-28T10:17:17.391504Z"
+        },
+        {
             "createTime": "2024-06-14T11:11:53.310559Z",
             "fields": {
                 "body": {
