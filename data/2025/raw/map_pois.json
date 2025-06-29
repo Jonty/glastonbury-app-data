@@ -15710,7 +15710,7 @@
             "createTime": "2025-06-12T20:38:30.644127Z",
             "fields": {
                 "busyDescription": {
-                    "stringValue": "Please head to another area of the site. Thank you."
+                    "nullValue": null
                 },
                 "busyOffsetX": {
                     "integerValue": "-35"
@@ -15722,7 +15722,7 @@
                     "integerValue": "50"
                 },
                 "busyTitle": {
-                    "stringValue": "NO ACCESS TO WOODSIES"
+                    "nullValue": null
                 },
                 "deletedAt": {
                     "nullValue": null
@@ -15737,13 +15737,13 @@
                     "booleanValue": false
                 },
                 "isBusy": {
-                    "booleanValue": true
+                    "booleanValue": false
                 },
                 "isInMarket": {
                     "booleanValue": false
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-28T20:43:59.750Z"
+                    "timestampValue": "2025-06-28T23:50:40.880Z"
                 },
                 "name": {
                     "stringValue": "WOODSIES"
@@ -15765,7 +15765,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/map_pois/recFPgG7X8vLLJQ1E",
-            "updateTime": "2025-06-28T20:43:59.763633Z"
+            "updateTime": "2025-06-28T23:50:40.891559Z"
         },
         {
             "createTime": "2025-06-12T20:38:30.644127Z",
