@@ -1009,6 +1009,34 @@
             "updateTime": "2025-06-16T08:47:20.353007Z"
         },
         {
+            "createTime": "2025-06-29T08:56:37.720233Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p><b>Carl Bar\u00e2t and Pete Doherty</b> \u2013 Astrolabe theatre, 12.00</p><p>The Libertines lads are in conversation with the Guardian\u2019s Miranda Sawyer.</p><p><b>Gurriers</b> \u2013 Woodsies, 12.30 (also Left Field, Friday, 17.35)</p><p>As Idles take a fallow year their fans should make haste for this band\u2019s smart, sardonic post-punk.</p><p><b>Abel Selaocoe and the Bantu Ensemble</b> \u2013 West Holts, Sunday, 12.30</p><p>For a blast of pure emotive musicianship, check out this esteemed South African cellist.</p><p><b>Geordie Greep</b> \u2013 Park stage, 12.45</p><p>Having sloughed off his Black Midi bandmates, Greep is a maximalist prog-pop showman.</p><p><b>Sprints</b> \u2013 Woodsies, 14.00</p><p>Powered by the withering vocals of Karla Chubb, the Irish quartet went Top 20 with their debut and they\u2019ll be touting some excellent new material here.</p><p><b>Royel Otis</b> \u2013 Park stage, 15.15</p><p>It feels as if the Aussie indie-poppers are one song from pan-Glasto awareness and are shamelessly populist, with their big singalong choruses (\u201cyou\u2019re so fucking gorgeous!\u201d) and bigger cover versions (Linger, Murder on the Dancefloor) making them a very reliable bet in a mixed-taste friendship group.</p><p><b>Black Uhuru</b> \u2013 West Holts, 15.30</p><p>Along with Burning Spear, here\u2019s another act from the classic era of roots reggae with socially conscious lyrics and warm, smoke-filled arrangements.</p><p><b>Rod Stewart</b> \u2013 Pyramid stage, 15.45</p><p>Playing just before Chic on the Pyramid? It\u2019s about as crowdpleasing as it gets.</p><p><b>Turnstile</b> \u2013 Other stage, 16.30</p><p>The US band remain totally wedded to the hardcore punk scene even as they expand their sound outwards with flute solos and new wave flourishes.</p><p><b>Noah Kahan</b> \u2013 Pyramid stage, 19.45</p><p>Stick Season and other hits will prove to be massive Pyramid singalongs.</p><p><b>Olivia Rodrigo</b> \u2013 Pyramid stage, 21.45</p><p>Rodrigo delivered a bracing set on the Other stage in 2022, naming the supreme court justices who overturned Roe v Wade and telling them \u201cwe hate you, we hate you\u201d \u2013 and she has splenetic pop-punk and heart-rending balladry to match that venom.</p><p><b>The Prodigy</b> \u2013 Other stage, 21.45</p><p>The industrial rave firestarters still sound unhinged three decades after their ascent.</p><p><b>Verraco</b> \u2013 Assembly, 01.00</p><p>Kicking open the doors of perception with mini strobe in hand is this mind-expanding producer questing to the coalface of dance culture.</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-29T08:56:35.448Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6QMV1OcsVOC6CsTvy5fvYT/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-29T08:56:37.708Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "The Guardian's guide to Sunday"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/3KgQpfZbDgIPlHC3Bx7uQF",
+            "updateTime": "2025-06-29T08:56:37.720233Z"
+        },
+        {
             "createTime": "2024-06-20T16:37:09.365407Z",
             "fields": {
                 "body": {
@@ -2157,6 +2185,34 @@
             "updateTime": "2025-06-05T08:03:29.881359Z"
         },
         {
+            "createTime": "2025-06-29T08:26:59.583326Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Here are some photos from Saturday at this year&#39;s Festival, and <a href=\"https://www.glastonburyfestivals.co.uk/news/saturday-in-pictures-10/\">click here for more on the Glastonbury website.</a></p><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3LfPkTg1tLljsFcKGpgmD6/public\" alt=\"019A6266-Copy-1024x646\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6wUcyph2memA6tKssgSixv/public\" alt=\"EzraCollective AB-1-Copy-1024x683\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-7ljgKPjK9wmd1YglnVz4Lj/public\" alt=\"7-Glastofest25-AndrewAllcock-250628-2080-Copy-1024x683\"><img src=\"https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4X3JdxjyFL2Ue0DnOBndqv/public\" alt=\"IMG 0977 Tom Widd-Copy-1024x683\"><p></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-29T08:26:57.863Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-4ZEBsc1jmTw3y3SShvQFir/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-29T08:26:59.565Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Saturday in pictures"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/62hoHgDO4cRqp8LL5zAOAi",
+            "updateTime": "2025-06-29T08:26:59.583326Z"
+        },
+        {
             "createTime": "2024-06-07T12:00:08.259343Z",
             "fields": {
                 "body": {
@@ -2188,7 +2244,7 @@
             "createTime": "2025-06-26T08:42:22.374424Z",
             "fields": {
                 "body": {
-                    "stringValue": "<p><a href=\"https://www.glastonburyfestivals.co.uk/news/download-the-2025-glastonbury-free-press/\">Click here</a> to download Thursday\u2019s issue of the Glastonbury Free Press. This edition features exclusives with <b>Michael Eavis, Gary Lineker, Alex Horne,</b> and <b>Caroline Cadwalladr</b> and a host of other Festival-related pieces.</p><p>The Free Press is printed in the Theatre &amp; Circus fields on a vintage Heidelberg press and is available now around the site, for free. Plus, you can get it from the Free Press printing tent, in the Theatre &amp; Circus fields, where you can also buy souvenir Free Press posters and beermats.</p><p>Our thanks to the amazing Free Press team of writers, designers and printers.</p>"
+                    "stringValue": "<p><a href=\"https://glas.to/GFP25sun\"><b><u>Click here</u></b></a><b> to download Sunday\u2019s edition</b> of our on-site newspaper, the Glastonbury Free Press, which features exclusive interviews with <b>Emily Eavis, Stanley Donwood</b> and this year\u2019s Agony Aunt, <b>Self Esteem</b>. Or pick up a copy around site!</p><p><u></u><a href=\"https://www.glastonburyfestivals.co.uk/news/download-the-2025-glastonbury-free-press/\"><b><u>Click here</u></b></a><b><u> </u></b><b>to download Thursday\u2019s issue</b> of the Glastonbury Free Press. This edition features exclusives with <b>Michael Eavis, Gary Lineker, Alex Horne,</b> and <b>Caroline Cadwalladr</b> and a host of other Festival-related pieces.</p><p>The Free Press is printed in the Theatre &amp; Circus fields on a vintage Heidelberg press and is available now around the site, for free. Plus, you can get it from the Free Press printing tent, in the Theatre &amp; Circus fields, where you can also buy souvenir Free Press posters and beermats.</p><p>Our thanks to the amazing Free Press team of writers, designers and printers.</p>"
                 },
                 "deletedAt": {
                     "nullValue": null
@@ -2197,10 +2253,10 @@
                     "timestampValue": "2025-06-26T08:42:20.624Z"
                 },
                 "imageUrl": {
-                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6ZosB4etxrLc4ostCSx4Uu/public"
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-1VuMT3LKNRaT1Vb4zj5az0/public"
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-27T11:24:18.528Z"
+                    "timestampValue": "2025-06-29T08:42:20.086Z"
                 },
                 "status": {
                     "nullValue": null
@@ -2210,7 +2266,7 @@
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/67qU6UlVFpq8L7DYbxPzRT",
-            "updateTime": "2025-06-27T11:24:18.545637Z"
+            "updateTime": "2025-06-29T08:42:20.101921Z"
         },
         {
             "createTime": "2025-06-10T10:25:50.018687Z",
