@@ -1177,6 +1177,34 @@
             "updateTime": "2025-06-10T10:30:16.012047Z"
         },
         {
+            "createTime": "2025-06-29T11:49:40.755096Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Hello and welcome to the final day of Glastonbury 2025! We hope you have a wonderful day. It\u2019s likely to be another warm one \u2013 so please do check out our <a data-entry-id=\"18NDbs7sbKYJCRSci06v8O\" href=\"glastonbury://news?id=18NDbs7sbKYJCRSci06v8O\">heat advice</a>. And if you&#39;re packing up your camp today, please love the farm and leave no trace.</p><p>There are likely to be comfortably busy crowds at the Pyramid, Other, West Holts and the Park Stages - with Rod Stewart&#39;s Pyramid set (5.45pm) and Maccabees&#39; Park performance (10.15pm) set to attract big audiences.</p><p>Other potentially busy shows today include Sub Focus at IICON (12.30am) and Marc Rebillet at Shangri-La Stage (2am).</p><p>The late-night areas will also be popular again this evening. We will be diverting crowds at times to help you find clear space to enjoy yourselves.</p><p>We expect that there will be one in, one out queues on some of our tented venues, and on occasion it may be necessary to divert you around some areas when they are at capacity. Please listen to stewards and be patient with them.</p><p>When leaving our bigger arenas and venues, please remember there are lots of you. If you take your time the crowds will thin out and you\u2019ll get out more easily. And when heading to stages remember, we have a lot of alternative routes to places, the shortest route will often not be the quickest.</p><p>As always, if you do come across a busier crowd and you\u2019d prefer some space, your best bet is to turn around and head for somewhere a bit quieter (Dragon\u2019s Tail, the hill above The Park or the space above the Tipi field and the Green Fields, for example).</p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-29T11:49:31.577Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-3BnaWJ8qE7V3Rg3hgSWF5A/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-29T11:49:40.739Z"
+                },
+                "status": {
+                    "nullValue": null
+                },
+                "title": {
+                    "stringValue": "Sunday crowds update"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/3h8Bt1x80IjPMA8tpPtQ1j",
+            "updateTime": "2025-06-29T11:49:40.755096Z"
+        },
+        {
             "createTime": "2025-06-05T08:07:30.183839Z",
             "fields": {
                 "body": {
