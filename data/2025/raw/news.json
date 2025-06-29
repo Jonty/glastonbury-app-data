@@ -128,17 +128,17 @@
                     "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6iFMZOITartm4CKXAVn85S/public"
                 },
                 "lastModifiedAt": {
-                    "timestampValue": "2025-06-28T14:02:58.396Z"
+                    "timestampValue": "2025-06-29T15:39:07.095Z"
                 },
                 "status": {
-                    "stringValue": "PINNED"
+                    "nullValue": null
                 },
                 "title": {
                     "stringValue": "Be safe in the heat"
                 }
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/18NDbs7sbKYJCRSci06v8O",
-            "updateTime": "2025-06-28T14:02:58.411563Z"
+            "updateTime": "2025-06-29T15:39:07.108894Z"
         },
         {
             "createTime": "2024-06-24T07:42:19.399007Z",
@@ -2071,6 +2071,34 @@
             },
             "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/5X7dTHnKpYItqMIAIAGsjD",
             "updateTime": "2025-06-05T08:07:48.505791Z"
+        },
+        {
+            "createTime": "2025-06-29T15:35:38.622472Z",
+            "fields": {
+                "body": {
+                    "stringValue": "<p>Temperatures of up to 31C are predicted for Monday. Please plan ahead for the heat. Read our advice below for those leaving the site by car &amp; public transport</p><p><b>TIPS FOR DRIVERS LEAVING THE SITE</b></p><ul><li><p><b>PLEASE take all your belongings with you</b> &amp; take what you can back to your car today so you have less to carry in tomorrow&#39;s heat</p></li><li><p><b>To avoid queues &amp; the heat</b>, leave between midnight tonight and 6am Monday</p></li><li><p><b>Do NOT drive under the influence</b></p></li><li><p><b>Refill your water bottles </b>before you leave site from our 800+ taps</p></li><li><p><b>Have supplies for your journey</b> (there will be traders open tomorrow morning)</p></li><li><p><b>Wear light clothing</b>, and place a damp cloth or hat on your neck or head</p></li><li><p><b>Use window shades and air conditioning</b> if you have them, or keep a window open</p></li><li><p><b>There may be queues</b> to leave site - please listen to stewards and be respectful &amp; understanding</p></li><li><p><b>Get Travel Updates</b> from Worthy FM on the app &amp; 87.7FM and from @TravelSomerset on Twitter</p></li><li><p><b>Travel safely.</b> If you\u2019re tired on your journey home, stop and take a break</p></li><li><p><b>If you need assistance, please tell a steward</b></p></li></ul><p><b>TIPS IF YOU&#39;RE LEAVING BY PUBLIC TRANSPORT</b></p><ul><li><p><b>PLEASE take all your belongings</b> home with you</p></li><li><p><b>Refill your water bottles </b>before you leave site from our 800+ taps</p></li><li><p><b>Apply sunscreen</b> - available free from Info points - and cover up</p></li><li><p><b>Wear or improvise a hat</b>, wear light clothing, and place a damp cloth on your neck / head</p></li><li><p><b>Make sure you join the correct queue</b>, listen to stewards and be respectful &amp; understanding</p></li><li><p><b>Take off your rucksack</b> - it insulates you and stops you from losing heat</p></li><li><p><b>Keep an eye on your friends</b> - if you / they feel faint, seek help from stewards</p></li></ul><p></p>"
+                },
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "firstPublishedAt": {
+                    "timestampValue": "2025-06-29T15:35:28.750Z"
+                },
+                "imageUrl": {
+                    "stringValue": "https://imagedelivery.net/upXZWbPawu5_ba52qugbbg/gcfprod-6iFMZOITartm4CKXAVn85S/public"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-29T16:00:44.762Z"
+                },
+                "status": {
+                    "stringValue": "PINNED"
+                },
+                "title": {
+                    "stringValue": "Heat advice for Monday departures"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/news/5XoDwW99KmKDP77UOwRB8J",
+            "updateTime": "2025-06-29T16:00:44.778203Z"
         },
         {
             "createTime": "2025-06-26T10:31:10.331529Z",

@@ -326,6 +326,34 @@
             "updateTime": "2025-06-28T20:41:42.840527Z"
         },
         {
+            "createTime": "2025-06-29T15:52:07.429886Z",
+            "fields": {
+                "deletedAt": {
+                    "nullValue": null
+                },
+                "description": {
+                    "stringValue": "Plan ahead for the heat. Click to read our advice."
+                },
+                "id": {
+                    "stringValue": "481RzzKWdtotYSeFYW7KX2"
+                },
+                "lastModifiedAt": {
+                    "timestampValue": "2025-06-29T15:52:07.415Z"
+                },
+                "link": {
+                    "stringValue": "5XoDwW99KmKDP77UOwRB8J"
+                },
+                "linkType": {
+                    "stringValue": "newsArticle"
+                },
+                "title": {
+                    "stringValue": "31C predicted for Monday"
+                }
+            },
+            "name": "projects/glastonbury-production-91d55/databases/(default)/documents/notifications/481RzzKWdtotYSeFYW7KX2",
+            "updateTime": "2025-06-29T15:52:07.429886Z"
+        },
+        {
             "createTime": "2024-06-26T08:59:42.744607Z",
             "fields": {
                 "deletedAt": {
